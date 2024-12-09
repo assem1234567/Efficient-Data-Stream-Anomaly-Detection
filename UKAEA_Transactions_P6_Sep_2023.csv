@@ -1,0 +1,1539 @@
+Department,Entity,Pay Date,Product Family,Expense area,Supplier Name,Transaction Number,Net Amount
+DESNZ,UKAEA,06/09/2023,Travel,Support Services,Clarity Travel Limited,5157546,871.46
+DESNZ,UKAEA,20/09/2023,Travel,Support Services,Clarity Travel Limited,5158535,"5,844.02"
+DESNZ,UKAEA,20/09/2023,Travel,Support Services,Clarity Travel Limited,5158535,"89,272.28"
+DESNZ,UKAEA,06/09/2023,Travel,Support Services,Clarity Travel Limited,5157546,"111,047.68"
+DESNZ,UKAEA,04/09/2023,Other Provisions - Utilisation,Other,Thompsons Solicitors,5156989,"18,155.00"
+DESNZ,UKAEA,13/09/2023,Other Provisions - Utilisation,Other,Thompsons Solicitors,5158216,"372,000.00"
+DESNZ,UKAEA,13/09/2023,Energy and Fuels,Property,EDF Energy,5158145,716.31
+DESNZ,UKAEA,13/09/2023,Energy and Fuels,Property,EDF Energy,5158150,934.12
+DESNZ,UKAEA,13/09/2023,Energy and Fuels,Property,EDF Energy,5158146,"3,686.73"
+DESNZ,UKAEA,13/09/2023,Energy and Fuels,Property,EDF Energy,5158147,"4,272.72"
+DESNZ,UKAEA,13/09/2023,Energy and Fuels,Property,EDF Energy,5158163,"6,864.80"
+DESNZ,UKAEA,13/09/2023,Energy and Fuels,Property,EDF Energy,5158162,"7,160.30"
+DESNZ,UKAEA,13/09/2023,Energy and Fuels,Property,EDF Energy,5158144,"7,915.96"
+DESNZ,UKAEA,13/09/2023,Energy and Fuels,Property,EDF Energy,5158152,"49,973.30"
+DESNZ,UKAEA,13/09/2023,Energy and Fuels,Property,EDF Energy,5158149,"58,660.62"
+DESNZ,UKAEA,13/09/2023,Energy and Fuels,Property,EDF Energy,5158151,"69,919.80"
+DESNZ,UKAEA,06/09/2023,Energy and Fuels,Fusion,EDF Energy,5157657,"311,997.06"
+DESNZ,UKAEA,18/09/2023,Energy and Fuels,Fusion,EDF Energy,5158251,"862,634.03"
+DESNZ,UKAEA,04/09/2023,Energy and Fuels,Fusion,National Grid Plc,5157266,"3,379.62"
+DESNZ,UKAEA,13/09/2023,Facilities,Property,Advanced Demand Side Management Limited,5158165,"31,605.33"
+DESNZ,UKAEA,13/09/2023,Facilities,Property,Advanced Demand Side Management Limited,5158158,"34,188.79"
+DESNZ,UKAEA,13/09/2023,Engineering Goods,Other,BOC Ltd,5157908,606.00
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Other,BOC Ltd,5157072,687.96
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Other,BOC Ltd,5157486,739.35
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Other,BOC Ltd,5157074,859.95
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Other,BOC Ltd,5157058,880.45
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,BOC Ltd,5157155,"6,468.75"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,BOC Ltd,5157279,"8,536.50"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,BOC Ltd,5157063,"25,038.00"
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Fusion,BOC Ltd,5158342,"49,159.09"
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Fusion,BOC Ltd,5158342,"84,801.84"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,BOC Ltd,5157514,"112,965.25"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,Wychwood Water Systems Ltd,5157769,"1,458.00"
+DESNZ,UKAEA,06/09/2023,Waste Management,Fusion,Arco Ltd,5157631,571.30
+DESNZ,UKAEA,11/09/2023,Waste Management,Fusion,FISHERSCIENTIFIC,5157799,704.48
+DESNZ,UKAEA,11/09/2023,Waste Management,Fusion,Soho Commercial Ltd,5157725,630.00
+DESNZ,UKAEA,25/09/2023,Waste Management,Fusion,VERNACARE LIMITED,5158797,692.52
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Fusion,A W Stokes & Son (Drums) Ltd,5158346,"1,000.00"
+DESNZ,UKAEA,07/09/2023,Engineering Goods,Fusion,Marshallton Research,5157499,"3,380.50"
+DESNZ,UKAEA,20/09/2023,Construction,Property,Amber Integrated Controls & Automation Ltd.,5158546,"7,785.00"
+DESNZ,UKAEA,18/09/2023,Construction,Fusion,Edmundson Electricals Ltd,5158317,"1,110.00"
+DESNZ,UKAEA,05/09/2023,Construction,Property,P-Card Supplier,5151621,735.00
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Fusion,A W Clarke,5158610,672.75
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Fusion,A W Clarke,5158611,"1,531.15"
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Fusion,A W Clarke,5158619,"3,491.80"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,Aalco Limited,5157804,535.80
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,AD Metal Spinners Ltd,5158712,"2,450.00"
+DESNZ,UKAEA,13/09/2023,Engineering Goods,Fusion,BOC Ltd,5157995,694.65
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,BSS Oxford,5157578,"4,922.68"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,City Electrical Factors,5157718,512.40
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Support Services,City Electrical Factors,5156859,568.43
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Property,City Electrical Factors,5158296,686.73
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Property,City Electrical Factors,5158701,707.98
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,City Electrical Factors,5158673,"1,028.40"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,City Electrical Factors,5157389,"1,146.60"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Property,City Electrical Factors,5158802,"1,661.69"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Property,City Electrical Factors,5158674,"3,064.76"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Property,City Electrical Factors,5157007,"8,179.10"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Property,Combined Services (GB) Ltd,5157024,"3,819.40"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Support Services,Concurrent Design Group,5158024,"1,062.00"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,Condec Industrial Maintenance,5157978,"2,200.00"
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Fusion,Crowcon Detection Instruments Ltd,5159005,"1,256.00"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Crowcon Detection Instruments Ltd,5157039,"4,697.00"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Other,Crowcon Detection Instruments Ltd,5157833,"5,076.30"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Edm Precision Technologies Ltd,5158735,520.00
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Edmundson Electricals Ltd,5156858,662.17
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Edmundson Electricals Ltd,5157076,"1,127.20"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Edmundson Electricals Ltd,5158662,"1,433.63"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Edmundson Electricals Ltd,5158658,"2,193.76"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,Edwards Limited,5157600,672.00
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5158909,541.00
+DESNZ,UKAEA,13/09/2023,Engineering Goods,Fusion,FISHERSCIENTIFIC,5158086,"19,995.00"
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Fusion,Forward 2000 Ltd,5159038,800.96
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,Forward 2000 Ltd,5158003,"1,033.44"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,Forward 2000 Ltd,5157993,"1,231.22"
+DESNZ,UKAEA,07/09/2023,Engineering Goods,Fusion,"Fraunhofer-Institut für Gießerei-, Composite?und Verarbeitungstechnik",5157346,"3,020.38"
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Fusion,Garner Osborne Circuits Ltd,5158284,"1,034.10"
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Fusion,Goodfellow Cambridge Ltd,5158297,804.45
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Fusion,Gows Lybster Limited,5158772,"11,006.26"
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Fusion,H C Slingsby PLC,5158994,"1,827.00"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Herose Ltd,5156938,"3,517.80"
+DESNZ,UKAEA,13/09/2023,Engineering Goods,Fusion,Ind-Tech Ltd,5158115,506.40
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Support Services,Ind-Tech Ltd,5156781,520.11
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Support Services,Industrial Tooling Corporation Ltd,5158331,687.41
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Fusion,Island Optics Ltd,5158252,781.00
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,Island Optics Ltd,5157763,"1,159.00"
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Fusion,Island Optics Ltd,5158254,"1,315.00"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,John Morfield Ltd,5157808,"13,103.58"
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Fusion,Kiartys Engineering Limited,5158628,553.31
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Fusion,Kiartys Engineering Limited,5158617,"1,157.59"
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Fusion,Kiartys Engineering Limited,5158629,"2,673.94"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Laser Lines Ltd,5157219,"4,735.00"
+DESNZ,UKAEA,07/09/2023,Engineering Goods,Fusion,Laseroptik,5157764,"1,641.73"
+DESNZ,UKAEA,07/09/2023,Engineering Goods,Fusion,Laseroptik,5157765,"2,899.05"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,Leybold UK Ltd,5157416,"1,352.00"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,Leybold UK Ltd,5157417,"2,237.60"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Leybold UK Ltd,5156939,"2,925.70"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Leybold UK Ltd,5156805,"3,742.00"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,Machining Techology (Mach-Tech) Ltd,5157371,"2,161.74"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,MKS Instrument UK Limited,5158721,"36,816.00"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,Mouser Electronics,5157442,685.30
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,Mouser Electronics,5157414,"1,753.76"
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Fusion,Mouser Electronics,5159056,"2,259.76"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Northern Valve & Fitting Company,5156865,"1,184.32"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Op-Tec Systems Ltd,5157075,"1,429.00"
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Fusion,Op-Tec Systems Ltd,5158483,"1,429.00"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,Oxford Bolts & Bearings,5157667,"5,551.90"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,Palatine Precision Ltd,5157901,"2,842.60"
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Fusion,P-Card Supplier,5151164,517.99
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Other,P-Card Supplier,5154311,545.50
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Other,P-Card Supplier,5146866,552.00
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Other,P-Card Supplier,5146866,579.63
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Fusion,P-Card Supplier,5155481,590.93
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Fusion,P-Card Supplier,5155481,592.22
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Other,P-Card Supplier,5146867,634.89
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Fusion,P-Card Supplier,5152534,650.00
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Fusion,P-Card Supplier,5151236,660.89
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Fusion,P-Card Supplier,5151665,666.80
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Other,P-Card Supplier,5146869,717.86
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Fusion,P-Card Supplier,5151299,770.00
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Other,P-Card Supplier,5151665,780.26
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Fusion,P-Card Supplier,5157215,794.79
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Fusion,P-Card Supplier,5150244,836.75
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Other,P-Card Supplier,5146867,961.69
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Other,P-Card Supplier,5156964,977.95
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Fusion,P-Card Supplier,5146869,980.00
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Other,P-Card Supplier,5150911,"1,197.50"
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Fusion,P-Card Supplier,5157215,"1,227.43"
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Other,P-Card Supplier,5146866,"1,230.00"
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Other,P-Card Supplier,5146869,"1,318.00"
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Other,P-Card Supplier,5146869,"1,486.40"
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Fusion,P-Card Supplier,5154506,"1,633.33"
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Other,P-Card Supplier,5146869,"1,997.80"
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Fusion,P-Card Supplier,5148843,"2,137.08"
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Fusion,P-Card Supplier,5146866,"2,249.75"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Pfeiffer Vacuum UK,5156971,797.10
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Pfeiffer Vacuum UK,5156979,"2,001.99"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Power Products International Ltd.,5156987,"3,027.75"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Quantum Design UK and Ireland Ltd,5158683,"11,225.00"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,Redlux Ltd,5157778,700.00
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Fusion,RS Components Ltd,5158919,580.15
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,RS Components Ltd,5156898,592.69
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Fusion,RS Components Ltd,5158408,815.14
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,RS Components Ltd,5156867,"1,124.41"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,RS Components Ltd,5157375,"1,168.73"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,RS Components Ltd,5158679,"1,389.90"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Other,RS Components Ltd,5157068,"1,410.77"
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Other,RS Components Ltd,5158984,"1,519.33"
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Other,RS Components Ltd,5158985,"1,783.95"
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Fusion,RS Components Ltd,5158918,"1,799.23"
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Other,RS Components Ltd,5158976,"2,493.04"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Other,RS Components Ltd,5157384,"3,544.86"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Scanwel Ltd.,5156969,724.07
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Fusion,Schneider Electric Systems UK Limited,5159006,"2,124.21"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Schneider Electric Systems UK Limited,5158685,"19,842.98"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Shropshire Stainless & Aluminium Ltd,5156829,648.40
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Other,Shropshire Stainless & Aluminium Ltd,5157661,799.05
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Smiths Metal Centres Ltd,5158714,700.00
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,Solid Print3D Ltd,5157597,676.00
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Other,Swagelok London,5157062,516.52
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Swagelok London,5156893,976.92
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Fusion,Swagelok London,5158928,"1,183.74"
+DESNZ,UKAEA,13/09/2023,Engineering Goods,Fusion,Swagelok London,5158215,"7,080.00"
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Fusion,Taylor Hobson Ltd,5158337,966.00
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,Telonic Instruments Ltd,5157881,"15,017.54"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Thames Restek UK Limited,5157224,"1,140.96"
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Fusion,TPB Precision Engineering Ltd,5158386,"8,880.00"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,Underwoods Electrical Distributors,5157355,856.29
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,Underwoods Electrical Distributors,5157394,"1,170.92"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Underwoods Electrical Distributors,5157033,"2,649.20"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Vat Vacuum Products Ltd,5156958,"2,146.95"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Wika Instruments Ltd,5156864,572.34
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Wika Instruments Ltd,5156863,"2,031.36"
+DESNZ,UKAEA,11/09/2023,Operational Goods,Fusion,Arco Ltd,5157767,721.44
+DESNZ,UKAEA,04/09/2023,Operational Goods,Fusion,Arco Ltd,5156884,839.20
+DESNZ,UKAEA,20/09/2023,Operational Goods,Fusion,Arco Ltd,5158470,"13,851.00"
+DESNZ,UKAEA,11/09/2023,Operational Goods,Fusion,CSS Worksafe,5157877,"1,350.00"
+DESNZ,UKAEA,05/09/2023,Operational Goods,Fusion,P-Card Supplier,5153315,-865.32
+DESNZ,UKAEA,05/09/2023,Operational Goods,Fusion,P-Card Supplier,5152840,895.32
+DESNZ,UKAEA,18/09/2023,Operational Goods,Support Services,Specsavers Corporate Eye Care,5158241,850.00
+DESNZ,UKAEA,20/09/2023,Operational Goods,Fusion,Stephens Industries Ltd,5158568,"8,103.00"
+DESNZ,UKAEA,13/09/2023,Operational Goods,Fusion,VERNACARE LIMITED,5158093,692.52
+DESNZ,UKAEA,04/09/2023,Operational Goods,Fusion,RS Components Ltd,5156914,"1,575.00"
+DESNZ,UKAEA,13/09/2023,Facilities,Property,BWT UK Limited,5158038,"1,173.48"
+DESNZ,UKAEA,20/09/2023,Facilities,Property,Manufacturing Technology Centre,5158578,"14,163.00"
+DESNZ,UKAEA,05/09/2023,Facilities,Fusion,P-Card Supplier,5151433,"1,197.95"
+DESNZ,UKAEA,05/09/2023,Facilities,Fusion,P-Card Supplier,5146871,"1,300.60"
+DESNZ,UKAEA,06/09/2023,Facilities,Support Services,SouthernsBroadstock Limited,5157358,574.00
+DESNZ,UKAEA,20/09/2023,Facilities,Support Services,SouthernsBroadstock Limited,5158551,"1,722.00"
+DESNZ,UKAEA,20/09/2023,ICT,Fusion,Computacenter UK Ltd,5158495,672.00
+DESNZ,UKAEA,04/09/2023,ICT,Property,Computacenter UK Ltd,5156932,700.59
+DESNZ,UKAEA,04/09/2023,ICT,Fusion,Computacenter UK Ltd,5156947,871.42
+DESNZ,UKAEA,04/09/2023,ICT,Other,Computacenter UK Ltd,5156948,878.98
+DESNZ,UKAEA,04/09/2023,ICT,Support Services,Computacenter UK Ltd,5156933,"1,051.32"
+DESNZ,UKAEA,20/09/2023,ICT,Fusion,Computacenter UK Ltd,5158486,"1,154.36"
+DESNZ,UKAEA,04/09/2023,ICT,Fusion,Computacenter UK Ltd,5156944,"1,288.57"
+DESNZ,UKAEA,20/09/2023,ICT,Fusion,Computacenter UK Ltd,5158502,"1,315.35"
+DESNZ,UKAEA,20/09/2023,ICT,Fusion,Computacenter UK Ltd,5158498,"1,582.90"
+DESNZ,UKAEA,04/09/2023,ICT,Fusion,Computacenter UK Ltd,5156927,"1,827.68"
+DESNZ,UKAEA,06/09/2023,ICT,Other,Computacenter UK Ltd,5157322,"1,936.84"
+DESNZ,UKAEA,04/09/2023,ICT,Fusion,Computacenter UK Ltd,5156935,"1,999.32"
+DESNZ,UKAEA,20/09/2023,ICT,Fusion,Computacenter UK Ltd,5158491,"2,092.00"
+DESNZ,UKAEA,20/09/2023,ICT,Fusion,Computacenter UK Ltd,5158484,"2,404.94"
+DESNZ,UKAEA,04/09/2023,ICT,Other,Computacenter UK Ltd,5156926,"2,566.84"
+DESNZ,UKAEA,20/09/2023,ICT,Fusion,Computacenter UK Ltd,5158503,"2,968.20"
+DESNZ,UKAEA,27/09/2023,ICT,Fusion,Computacenter UK Ltd,5158968,"2,976.75"
+DESNZ,UKAEA,27/09/2023,ICT,Fusion,Computacenter UK Ltd,5158972,"3,371.94"
+DESNZ,UKAEA,04/09/2023,ICT,Fusion,Computacenter UK Ltd,5156943,"3,966.60"
+DESNZ,UKAEA,20/09/2023,ICT,Fusion,Computacenter UK Ltd,5158489,"4,079.04"
+DESNZ,UKAEA,06/09/2023,ICT,Fusion,Computacenter UK Ltd,5157321,"7,428.76"
+DESNZ,UKAEA,21/09/2023,ICT,Fusion,Concurrent HPS Europe SA,5158574,793.23
+DESNZ,UKAEA,28/09/2023,ICT,Support Services,Lansweeper NV,5158538,"8,000.00"
+DESNZ,UKAEA,20/09/2023,ICT,Fusion,Millgate Limited,5158488,"1,953.47"
+DESNZ,UKAEA,18/09/2023,ICT,Support Services,Pageone Communications Ltd,5158352,534.76
+DESNZ,UKAEA,05/09/2023,ICT,Property,P-Card Supplier,5157215,594.00
+DESNZ,UKAEA,05/09/2023,ICT,Other,P-Card Supplier,5154799,"2,280.00"
+DESNZ,UKAEA,06/09/2023,ICT,Other,Snelling Business Systems Limited,5157672,"2,177.00"
+DESNZ,UKAEA,18/09/2023,ICT,Fusion,Snelling Business Systems Limited,5158263,"3,901.00"
+DESNZ,UKAEA,04/09/2023,ICT,Property,Snelling Business Systems Limited,5156965,"4,400.00"
+DESNZ,UKAEA,11/09/2023,ICT,Fusion,Snelling Business Systems Limited,5157721,"4,968.00"
+DESNZ,UKAEA,05/09/2023,IT Equipment - Admin,Fusion,P-Card Supplier,5149095,675.00
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,Acal Bfi UK Limited,5157338,"2,680.00"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Other,Acrona Engineering Ltd,5157646,"3,750.00"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Other,Acrona Engineering Ltd,5157592,"9,985.38"
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Fusion,Advent Research Materials Ltd,5158525,"1,596.00"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,Agar Scientific Ltd.,5158028,514.68
+DESNZ,UKAEA,21/09/2023,Engineering Goods,Fusion,Alluxa INC,5158720,"2,819.40"
+DESNZ,UKAEA,28/09/2023,Engineering Goods,Fusion,Alluxa INC,5158937,"18,724.97"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Alpha Laboratories Ltd,5157165,504.00
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Fusion,Aqua Cooling Limited,5159037,"1,000.00"
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Other,AS Scientific Products Ltd,5158450,"6,665.00"
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Other,AS Scientific Products Ltd,5158449,"7,400.00"
+DESNZ,UKAEA,13/09/2023,Engineering Goods,Fusion,B & M Engineers Ltd,5158184,950.00
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Other,Beckhoff Automation Ltd,5158689,"1,701.32"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Other,Beckhoff Automation Ltd,5157586,"3,937.50"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,Boxer Machine Tools Services,5157370,"1,875.00"
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Other,BPX Electromechanical Company Limited,5158599,"1,050.00"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Other,BPX Electromechanical Company Limited,5156961,"1,069.43"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Other,BPX Electromechanical Company Limited,5156962,"1,069.43"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,British Salt,5158860,"6,227.06"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Bronkhorst (UK)Ltd,5158724,"1,531.00"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Other,Buehler,5157753,"2,790.00"
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Other,Byson Limited,5158585,"1,316.15"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Other,City Electrical Factors,5157579,844.56
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Fusion,Cole-Parmer Instrument Company Ltd,5159055,"1,395.00"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,Complete PCB Services Ltd,5157326,"9,201.60"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Other,Crane Care Ltd,5156838,680.00
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,CSS Worksafe,5157325,897.20
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Fusion,Darvick Ltd,5158318,"2,187.50"
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Fusion,Darvick Ltd,5158319,"4,265.00"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Other,DEKRA UK Ltd,5156785,"5,000.00"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Edm Precision Technologies Ltd,5158649,815.00
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Edm Precision Technologies Ltd,5157307,"1,240.50"
+DESNZ,UKAEA,13/09/2023,Engineering Goods,Other,Edwards Limited,5158166,"9,615.40"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Other,European automation Ltd,5157776,"3,234.00"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Other,European automation Ltd,5157777,"3,654.00"
+DESNZ,UKAEA,07/09/2023,Engineering Goods,Fusion,European Energy Research Alliance EERA AISBL,5156704,"1,760.10"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5156801,559.99
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Other,Farnell Electronic Components Ltd,5159052,"1,084.41"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,Feedwater Ltd,5157842,704.41
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,Feedwater Ltd,5157841,948.50
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Support Services,Filtermist Limited,5157840,"7,013.00"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Other,Fischer Connectors Ltd.,5156960,"5,629.00"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Other,FISHERSCIENTIFIC,5158767,961.80
+DESNZ,UKAEA,13/09/2023,Engineering Goods,Fusion,Flexible Reinforcement Limited,5158089,"1,315.00"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,Foremost Electronics Ltd,5157527,686.51
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Other,Francis Brown Limited,5158410,920.00
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Goodfellow Cambridge Ltd,5158867,"2,253.55"
+DESNZ,UKAEA,13/09/2023,Engineering Goods,Fusion,Gunnebo UK Ltd,5157822,"5,841.00"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Other,HM Treasury T/A Government Internal Audit Service,5157727,"3,850.00"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Other,HPC Gears Ltd,5157524,"5,398.66"
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Other,HPC Gears Ltd,5158447,"14,641.21"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Other,Igus UK Ltd,5156800,"1,490.50"
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,Igus UK Ltd,5157461,"11,435.50"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Other,Ind-Tech Ltd,5158852,887.40
+DESNZ,UKAEA,13/09/2023,Engineering Goods,Other,Ind-Tech Ltd,5158102,"1,215.32"
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Other,Ind-Tech Ltd,5158400,"1,444.51"
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Other,Ind-Tech Ltd,5158576,"2,285.70"
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Other,Ind-Tech Ltd,5158580,"2,384.73"
+DESNZ,UKAEA,13/09/2023,Engineering Goods,Other,Ind-Tech Ltd,5158103,"3,571.98"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Labcal Limited,5157085,598.00
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,Lemo UK Ltd,5157469,849.00
+DESNZ,UKAEA,06/09/2023,Engineering Goods,Fusion,Lewvac Components Ltd.,5157391,884.00
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Life Safety Distribution GmbH,5157236,"1,479.00"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Other,Manutan UK Limited,5156949,500.00
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Other,Manutan UK Limited,5156949,750.00
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Other,Mayr Transmissions Ltd,5157907,"3,485.58"
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Other,Maziak Compressor Services Ltd,5158531,"5,885.66"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Meridian Biotechnologies Ltd.,5157230,660.00
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Fusion,Meridian Biotechnologies Ltd.,5158583,660.00
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Meridian Biotechnologies Ltd.,5158795,660.00
+DESNZ,UKAEA,13/09/2023,Engineering Goods,Other,MetPrep Ltd.,5158196,"2,861.80"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,Microset Products Limited,5158004,728.50
+DESNZ,UKAEA,14/09/2023,Engineering Goods,Other,Misumi Europa GmbH,5158273,968.96
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Other,Mouser Electronics,5156913,741.75
+DESNZ,UKAEA,13/09/2023,Engineering Goods,Fusion,Mouser Electronics,5158050,770.80
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Other,Mouser Electronics,5158506,859.00
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Other,Mouser Electronics,5156860,915.00
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Other,Mouser Electronics,5157296,"1,256.16"
+DESNZ,UKAEA,14/09/2023,Engineering Goods,Fusion,NOXANT,5158175,"49,726.59"
+DESNZ,UKAEA,21/09/2023,Engineering Goods,Other,Nuclear Research and consultancy Group (NRG) v.o.f,5158306,"29,264.93"
+DESNZ,UKAEA,21/09/2023,Engineering Goods,Other,Parcop S.r.l.,5158387,"4,148.05"
+DESNZ,UKAEA,07/09/2023,Engineering Goods,Fusion,Parcop S.r.l.,5152748,"16,647.00"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,PASS (Portable Appliance Safety Services) Ltd,5157847,722.00
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Fusion,P-Card Supplier,5150462,679.16
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Fusion,P-Card Supplier,5151920,809.89
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Fusion,P-Card Supplier,5157510,"1,150.45"
+DESNZ,UKAEA,05/09/2023,Engineering Goods,Property,P-Card Supplier,5156957,"1,774.17"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Photonic Solutions Plc,5158778,"2,540.00"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Other,Prime Av Ltd,5158690,879.00
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Qmx Laboratories Ltd,5158826,"2,625.25"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,Raddec International Ltd,5157740,896.00
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,Raddec International Ltd,5157740,"1,344.00"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,Raddec International Ltd,5157740,"1,344.00"
+DESNZ,UKAEA,28/09/2023,Engineering Goods,Fusion,Reinhold Muhleisen GmbH,5158770,"5,227.98"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Other,Rittal Limited,5158837,"1,539.61"
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Fusion,RS Components Ltd,5158344,504.18
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Other,Rubber Box Co. Ltd.,5158385,"2,447.18"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Other,Saffron Scientific Equipment Ltd,5158707,"2,335.00"
+DESNZ,UKAEA,28/09/2023,Engineering Goods,Fusion,Sedi Ati Fibres Optiques,5159065,"1,614.99"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Other,Selby Engineering & Lifting Safety,5157130,"5,170.10"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Support Services,Sodi-Tech EDM,5156782,650.00
+DESNZ,UKAEA,20/09/2023,Engineering Goods,Property,Southern Electric Power Distribution plc,5158548,"2,072.00"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Special Metals Fabrication,5158716,"2,572.00"
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Fusion,Staubli ( UK) Ltd,5158910,"10,192.50"
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Other,Sundry Supplier,5158874,"2,900.00"
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Fusion,Swagelok Manchester  t/a Manchester Fluid System Technologies Limited,5158944,"3,584.00"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Swagelok Manchester  t/a Manchester Fluid System Technologies Limited,5158761,"8,341.09"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Fusion,Swansea Tribology Service,5157726,546.00
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Taylor Hobson Ltd,5156986,"6,902.00"
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Other,Thorlabs Ltd,5157905,797.48
+DESNZ,UKAEA,18/09/2023,Engineering Goods,Other,Tyler Bros Ltd,5158305,706.65
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Other,University of York - GBP,5156793,"5,175.88"
+DESNZ,UKAEA,13/09/2023,Engineering Goods,Fusion,Vacuum Furnace Engineering Ltd,5158049,726.00
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Vacuum Furnace Engineering Ltd,5156951,"1,578.75"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Van Toan Lee LTD,5156982,850.00
+DESNZ,UKAEA,11/09/2023,Engineering Goods,Other,VWR International Ltd,5157728,"5,458.00"
+DESNZ,UKAEA,21/09/2023,Engineering Goods,Other,Walischmiller Engineering GmbH,5158589,"1,373.31"
+DESNZ,UKAEA,27/09/2023,Engineering Goods,Property,Wardsflex Ltd,5159016,"7,226.50"
+DESNZ,UKAEA,18/09/2023,ICT,Fusion,Aspen Technology Inc.,5158453,"49,063.00"
+DESNZ,UKAEA,14/09/2023,ICT,Fusion,CALC4XL GmbH,5157802,"2,041.67"
+DESNZ,UKAEA,07/09/2023,ICT,Fusion,Commissariat L Energie Atomique CEA,5150509,"4,225.80"
+DESNZ,UKAEA,13/09/2023,ICT,Other,Computacenter UK Ltd,5158174,"1,074.66"
+DESNZ,UKAEA,18/09/2023,ICT,Other,Computacenter UK Ltd,5158285,"1,074.66"
+DESNZ,UKAEA,06/09/2023,ICT,Fusion,Comsol,5157363,"15,789.00"
+DESNZ,UKAEA,07/09/2023,ICT,Fusion,Coreform LLC,5157186,"30,000.00"
+DESNZ,UKAEA,18/09/2023,ICT,Property,Ivanti UK Ltd,5158231,"59,577.49"
+DESNZ,UKAEA,27/09/2023,ICT,Fusion,Oracle Corporation UK Limited,5158936,539.49
+DESNZ,UKAEA,05/09/2023,ICT,Fusion,P-Card Supplier,5149238,998.54
+DESNZ,UKAEA,05/09/2023,ICT,Support Services,P-Card Supplier,5148992,"1,132.45"
+DESNZ,UKAEA,05/09/2023,ICT,Support Services,P-Card Supplier,5153567,"1,210.90"
+DESNZ,UKAEA,07/09/2023,ICT,Fusion,Rogue Wave Software Inc,5156998,"3,438.00"
+DESNZ,UKAEA,25/09/2023,ICT,Other,Salesforce UK Limited,5158871,"4,080.00"
+DESNZ,UKAEA,28/09/2023,ICT,Support Services,SmartRecruiters Inc,5156510,"36,277.00"
+DESNZ,UKAEA,04/09/2023,ICT,Support Services,Sphera UK Ltd,5156894,"2,940.00"
+DESNZ,UKAEA,18/09/2023,ICT,Support Services,Sphera UK Ltd,5158395,"2,940.00"
+DESNZ,UKAEA,18/09/2023,ICT,Support Services,Sphera UK Ltd,5158394,"7,078.00"
+DESNZ,UKAEA,11/09/2023,ICT,Other,Spidex Software Limited,5157807,975.00
+DESNZ,UKAEA,11/09/2023,ICT,Property,Spidex Software Limited,5157975,"2,382.17"
+DESNZ,UKAEA,11/09/2023,ICT,Property,Spidex Software Limited,5157974,"4,161.83"
+DESNZ,UKAEA,04/09/2023,ICT,Support Services,TO Health Limited,5156975,614.99
+DESNZ,UKAEA,06/09/2023,ICT,Fusion,Tractivity Ltd,5157651,"10,000.00"
+DESNZ,UKAEA,06/09/2023,ICT,Fusion,Underwoods Electrical Distributors,5157395,"1,786.00"
+DESNZ,UKAEA,05/09/2023,Facilities,Fusion,P-Card Supplier,5148478,791.93
+DESNZ,UKAEA,20/09/2023,Office Solutions,Fusion,Lyreco UK Limited,5158478,728.38
+DESNZ,UKAEA,04/09/2023,Office Solutions,Fusion,Manutan UK Limited,5156977,"1,443.00"
+DESNZ,UKAEA,05/09/2023,Office Solutions,Property,P-Card Supplier,5154728,575.00
+DESNZ,UKAEA,05/09/2023,Office Solutions,Fusion,P-Card Supplier,5150244,707.50
+DESNZ,UKAEA,05/09/2023,Office Solutions,Fusion,P-Card Supplier,5146871,802.49
+DESNZ,UKAEA,05/09/2023,Office Solutions,Property,P-Card Supplier,5154728,999.50
+DESNZ,UKAEA,05/09/2023,Office Solutions,Fusion,P-Card Supplier,5150244,"2,247.00"
+DESNZ,UKAEA,18/09/2023,Logistics and Shipping,Fusion,Augean Plc,5158310,734.50
+DESNZ,UKAEA,04/09/2023,Logistics and Shipping,Fusion,Van Toan Lee LTD,5157141,"1,350.00"
+DESNZ,UKAEA,11/09/2023,Logistics and Shipping,Other,VWR International Ltd,5157728,608.00
+DESNZ,UKAEA,20/09/2023,Personnel Related,Other,Abingdon & Witney Co,5158605,"2,199.00"
+DESNZ,UKAEA,11/09/2023,Personnel Related,Support Services,AXA PPP Healthcare,5157788,"5,924.90"
+DESNZ,UKAEA,13/09/2023,Personnel Related,Support Services,GatenbySanderson Limited,5158062,"2,010.00"
+DESNZ,UKAEA,11/09/2023,Personnel Related,Support Services,GatenbySanderson Limited,5157827,"4,762.50"
+DESNZ,UKAEA,27/09/2023,Personnel Related,Support Services,Rullion Engineering Ltd,5158822,"4,625.00"
+DESNZ,UKAEA,25/09/2023,Personnel Related,Fusion,WR Group Limited,5158815,530.00
+DESNZ,UKAEA,27/09/2023,Personnel Related,Fusion,WR Group Limited,5158947,530.00
+DESNZ,UKAEA,20/09/2023,Personnel Related,Support Services,WR Group Limited,5158638,635.00
+DESNZ,UKAEA,27/09/2023,Personnel Related,Support Services,WR Group Limited,5158932,655.00
+DESNZ,UKAEA,04/09/2023,Personnel Related,Other,WR Group Limited,5156905,750.00
+DESNZ,UKAEA,11/09/2023,Personnel Related,Support Services,WR Group Limited,5157817,750.00
+DESNZ,UKAEA,27/09/2023,Personnel Related,Support Services,WR Group Limited,5158948,750.00
+DESNZ,UKAEA,11/09/2023,Personnel Related,Property,WR Group Limited,5157820,890.00
+DESNZ,UKAEA,04/09/2023,Personnel Related,Support Services,WR Group Limited,5156916,963.00
+DESNZ,UKAEA,25/09/2023,Personnel Related,Support Services,WR Group Limited,5158813,965.00
+DESNZ,UKAEA,25/09/2023,Personnel Related,Fusion,WR Group Limited,5158819,"1,010.00"
+DESNZ,UKAEA,04/09/2023,Personnel Related,Fusion,WR Group Limited,5156921,"1,175.00"
+DESNZ,UKAEA,04/09/2023,Personnel Related,Fusion,WR Group Limited,5156922,"1,175.00"
+DESNZ,UKAEA,20/09/2023,Personnel Related,Fusion,WR Group Limited,5158640,"1,260.00"
+DESNZ,UKAEA,25/09/2023,Personnel Related,Other,WR Group Limited,5158818,"1,370.00"
+DESNZ,UKAEA,25/09/2023,Personnel Related,Other,WR Group Limited,5158811,"3,015.00"
+DESNZ,UKAEA,05/09/2023,Travel,Other,P-Card Supplier,5146866,799.24
+DESNZ,UKAEA,13/09/2023,Communications,Support Services,4 Imprint,5157784,"2,965.00"
+DESNZ,UKAEA,18/09/2023,Communications,Support Services,Antalis Limited,5158287,692.86
+DESNZ,UKAEA,27/09/2023,Communications,Fusion,Chris Vaughan Photography Ltd,5159058,550.00
+DESNZ,UKAEA,11/09/2023,Communications,Property,Commission Air Limited,5157757,500.00
+DESNZ,UKAEA,06/09/2023,Communications,Support Services,Digipress,5157603,510.50
+DESNZ,UKAEA,04/09/2023,Communications,Support Services,Fulton Paper,5156967,"3,072.00"
+DESNZ,UKAEA,18/09/2023,Communications,Fusion,HM Treasury T/A Government Internal Audit Service,5158416,"34,817.79"
+DESNZ,UKAEA,06/09/2023,Communications,Support Services,Hobs Reprographics Plc,5157423,580.00
+DESNZ,UKAEA,06/09/2023,Communications,Fusion,Hobs Reprographics Plc,5157425,"2,500.73"
+DESNZ,UKAEA,05/09/2023,Communications,Fusion,P-Card Supplier,5156737,988.00
+DESNZ,UKAEA,11/09/2023,Communications,Support Services,RAISE THE BAR SPEAKERS LIMITED,5157731,"3,900.00"
+DESNZ,UKAEA,27/09/2023,Communications,Support Services,Sundry Supplier,5158923,"3,393.00"
+DESNZ,UKAEA,25/09/2023,Communications,Fusion,The University Of Sheffield,5158783,"6,919.00"
+DESNZ,UKAEA,20/09/2023,Communications,Other,The Village Films,5158497,"20,000.00"
+DESNZ,UKAEA,13/09/2023,Communications,Fusion,Whitespace XPO Ltd,5158120,"3,017.00"
+DESNZ,UKAEA,04/09/2023,Travel,Support Services,Flightlink Chauffeurs Limited,5157306,"5,005.34"
+DESNZ,UKAEA,06/09/2023,Travel,Support Services,UNITAXI LTD,5157368,950.60
+DESNZ,UKAEA,20/09/2023,Travel,Fusion,Employee Expenses,20017708,"1,156.00"
+DESNZ,UKAEA,06/09/2023,Travel,Fusion,Employee Expenses,20017555,635.21
+DESNZ,UKAEA,13/09/2023,Travel,Other,Employee Expenses,20017644,"4,006.97"
+DESNZ,UKAEA,06/09/2023,Travel,Other,Employee Expenses,20017580,"3,011.53"
+DESNZ,UKAEA,25/09/2023,Travel,Fusion,Employee Expenses,20017731,732.85
+DESNZ,UKAEA,27/09/2023,Travel,Other,Employee Expenses,20017774,538.75
+DESNZ,UKAEA,06/09/2023,Travel,Other,Employee Expenses,20017576,"2,753.40"
+DESNZ,UKAEA,13/09/2023,Travel,Other,Rullion Engineering Ltd,5157824,526.46
+DESNZ,UKAEA,06/09/2023,Travel,Other,Employee Expenses,20017593,751.06
+DESNZ,UKAEA,06/09/2023,Travel,Other,Employee Expenses,20017593,823.63
+DESNZ,UKAEA,06/09/2023,Travel,Other,Employee Expenses,20017593,964.18
+DESNZ,UKAEA,20/09/2023,Relocation Costs,Other,Employee Expenses,20017673,737.50
+DESNZ,UKAEA,20/09/2023,Relocation Costs,Other,Employee Expenses,20017673,815.86
+DESNZ,UKAEA,20/09/2023,Relocation Costs,Other,Employee Expenses,20017673,920.91
+DESNZ,UKAEA,20/09/2023,Relocation Costs,Other,Employee Expenses,20017673,"1,629.59"
+DESNZ,UKAEA,20/09/2023,Relocation Costs,Other,Employee Expenses,20017673,"2,150.00"
+DESNZ,UKAEA,20/09/2023,Relocation Costs,Fusion,Employee Expenses,20017702,900.00
+DESNZ,UKAEA,06/09/2023,Relocation Costs,Support Services,Employee Expenses,20017582,640.15
+DESNZ,UKAEA,06/09/2023,Relocation Costs,Support Services,Employee Expenses,20017582,"1,917.37"
+DESNZ,UKAEA,13/09/2023,Relocation Costs,Fusion,Employee Expenses,20017653,762.35
+DESNZ,UKAEA,13/09/2023,Relocation Costs,Fusion,Employee Expenses,20017653,"2,825.42"
+DESNZ,UKAEA,13/09/2023,Relocation Costs,Fusion,Employee Expenses,20017653,"4,326.92"
+DESNZ,UKAEA,13/09/2023,Other Employee Expenses,Other,Employee Expenses,20017628,719.00
+DESNZ,UKAEA,13/09/2023,Other Employee Expenses,Other,Employee Expenses,20017628,"1,248.00"
+DESNZ,UKAEA,06/09/2023,Other Employee Expenses,Other,Employee Expenses,20017581,"3,451.42"
+DESNZ,UKAEA,06/09/2023,Other Employee Expenses,Support Services,Employee Expenses,20017585,"1,560.00"
+DESNZ,UKAEA,11/09/2023,Other Employee Expenses,Other,Employee Expenses,20017602,"3,434.03"
+DESNZ,UKAEA,04/09/2023,Other Employee Expenses,Other,Employee Expenses,20017547,"1,911.51"
+DESNZ,UKAEA,27/09/2023,Other Employee Expenses,Fusion,Employee Expenses,20017776,652.04
+DESNZ,UKAEA,27/09/2023,Other Employee Expenses,Fusion,Employee Expenses,20017776,"1,298.76"
+DESNZ,UKAEA,11/09/2023,Other Employee Expenses,Other,Employee Expenses,20017611,-981.22
+DESNZ,UKAEA,11/09/2023,Other Employee Expenses,Other,Employee Expenses,20017611,"3,443.15"
+DESNZ,UKAEA,06/09/2023,Other Employee Expenses,Other,Employee Expenses,20017554,967.50
+DESNZ,UKAEA,13/09/2023,Other Employee Expenses,Fusion,Employee Expenses,20017629,"2,904.00"
+DESNZ,UKAEA,11/09/2023,Other Employee Expenses,Other,Employee Expenses,20017599,"3,434.03"
+DESNZ,UKAEA,27/09/2023,Other Employee Expenses,Other,Employee Expenses,20017774,"5,156.41"
+DESNZ,UKAEA,11/09/2023,Other Employee Expenses,Other,Employee Expenses,20017601,"-3,360.26"
+DESNZ,UKAEA,11/09/2023,Other Employee Expenses,Other,Employee Expenses,20017601,"6,079.49"
+DESNZ,UKAEA,06/09/2023,Other Employee Expenses,Other,Employee Expenses,20017579,"4,006.97"
+DESNZ,UKAEA,11/09/2023,Other Employee Expenses,Other,Employee Expenses,20017621,"1,248.00"
+DESNZ,UKAEA,27/09/2023,Other Employee Expenses,Other,Employee Expenses,20017744,"1,274.91"
+DESNZ,UKAEA,25/09/2023,Other Employee Expenses,Other,Employee Expenses,20017718,"1,934.90"
+DESNZ,UKAEA,25/09/2023,Other Employee Expenses,Fusion,Employee Expenses,20017737,979.00
+DESNZ,UKAEA,25/09/2023,Other Employee Expenses,Fusion,Employee Expenses,20017737,"1,560.00"
+DESNZ,UKAEA,13/09/2023,Other Employee Expenses,Fusion,Employee Expenses,20017646,746.00
+DESNZ,UKAEA,27/09/2023,Other Employee Expenses,Other,Employee Expenses,20017762,974.18
+DESNZ,UKAEA,04/09/2023,Other Employee Expenses,Fusion,Employee Expenses,20017545,529.58
+DESNZ,UKAEA,04/09/2023,Other Employee Expenses,Fusion,Employee Expenses,20017545,"2,069.70"
+DESNZ,UKAEA,20/09/2023,Other Employee Expenses,Fusion,Employee Expenses,20017706,"1,917.58"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Other,P-Card Supplier,5148613,"-2,000.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Support Services,P-Card Supplier,5148916,-522.00
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Support Services,P-Card Supplier,5148613,"1,199.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Fusion,P-Card Supplier,5154899,"1,199.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Property,P-Card Supplier,5151567,"2,199.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Fusion,P-Card Supplier,5154899,"2,699.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Fusion,P-Card Supplier,5154899,"2,699.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Fusion,P-Card Supplier,5156178,"2,699.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Other,P-Card Supplier,5156178,"2,699.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Other,P-Card Supplier,5156178,"2,699.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Support Services,P-Card Supplier,5156178,"2,699.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Other,P-Card Supplier,5148613,"3,199.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Other,P-Card Supplier,5151567,"3,199.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Support Services,P-Card Supplier,5151567,"3,199.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Fusion,P-Card Supplier,5154897,"3,199.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Other,P-Card Supplier,5154897,"3,199.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Other,P-Card Supplier,5154897,"3,199.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Fusion,P-Card Supplier,5154899,"3,199.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Fusion,P-Card Supplier,5156178,"3,199.00"
+DESNZ,UKAEA,05/09/2023,Work Visa Costs,Other,P-Card Supplier,5156178,"3,199.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157565,530.63
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157755,530.63
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157685,644.25
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157143,657.38
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157512,709.60
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158200,735.38
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157949,896.10
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157303,931.90
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158112,932.93
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157259,941.62
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157493,"1,027.50"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157309,"1,038.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157399,"1,043.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157397,"1,043.01"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157452,"1,048.44"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157138,"1,061.26"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157323,"1,061.26"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157226,"1,132.95"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157426,"1,139.40"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157056,"1,150.00"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157759,"1,152.80"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157438,"1,217.28"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157575,"1,228.08"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158402,"1,239.98"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158057,"1,247.04"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157246,"1,268.40"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157406,"1,293.53"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157240,"1,340.15"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157642,"1,405.56"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157150,"1,431.00"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158559,"1,444.80"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158016,"1,470.76"
+DESNZ,UKAEA,27/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158691,"1,485.76"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157466,"1,485.78"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157088,"1,507.30"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157065,"1,514.10"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158234,"1,519.89"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157249,"1,555.84"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157431,"1,561.50"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157434,"1,561.50"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157252,"1,591.89"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157297,"1,591.89"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157333,"1,591.89"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157478,"1,591.89"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157539,"1,591.89"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157591,"1,591.89"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158030,"1,591.89"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157848,"1,591.90"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157732,"1,599.75"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157405,"1,612.13"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157185,"1,614.39"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157293,"1,614.39"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157332,"1,620.52"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158314,"1,650.00"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158265,"1,660.88"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157983,"1,698.01"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157115,"1,698.02"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157976,"1,740.34"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157464,"1,813.12"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157492,"1,829.35"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157304,"1,845.00"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157794,"1,860.71"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5156991,"1,861.25"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5156997,"1,864.50"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5156994,"1,865.86"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158080,"1,884.23"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157581,"1,903.80"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157609,"1,910.26"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157154,"1,910.27"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157498,"1,910.27"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157502,"1,910.27"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157100,"1,913.91"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157559,"1,948.16"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157562,"1,962.75"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157616,"2,016.36"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157134,"2,016.39"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157659,"2,016.39"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5158109,"2,016.39"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157324,"2,018.25"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158014,"2,020.20"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157145,"2,026.35"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157436,"2,026.35"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157506,"2,026.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157366,"2,031.79"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158139,"2,040.38"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157127,"2,042.06"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157133,"2,051.77"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157670,"2,055.00"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158435,"2,078.40"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157116,"2,104.84"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157446,"2,115.44"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157614,"2,122.48"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157142,"2,122.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157144,"2,122.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157220,"2,122.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157228,"2,122.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157386,"2,122.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157398,"2,122.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157457,"2,122.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157508,"2,122.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157563,"2,122.52"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158419,"2,122.52"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158083,"2,122.54"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157301,"2,133.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157014,"2,208.23"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157203,"2,223.57"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Property,Rullion Engineering Ltd,5157556,"2,234.25"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157443,"2,236.50"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157094,"2,270.25"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157286,"2,277.15"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157656,"2,336.64"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157051,"2,350.10"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157419,"2,356.44"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157105,"2,362.50"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157136,"2,379.72"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Property,Rullion Engineering Ltd,5158455,"2,383.20"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157752,"2,394.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157294,"2,419.94"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157361,"2,428.66"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157248,"2,436.56"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5158532,"2,447.43"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5158534,"2,448.72"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157424,"2,464.89"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158111,"2,479.97"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Property,Rullion Engineering Ltd,5157422,"2,528.38"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157673,"2,528.77"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157805,"2,535.30"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157149,"2,538.47"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5156825,"2,546.98"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157287,"2,583.02"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157679,"2,589.85"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157035,"2,599.12"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157356,"2,618.20"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157257,"2,629.14"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157354,"2,635.43"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157164,"2,646.15"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157401,"2,653.15"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157733,"2,669.13"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157121,"2,670.75"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157055,"2,676.62"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158199,"2,677.50"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157343,"2,678.50"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157265,"2,692.86"
+DESNZ,UKAEA,27/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158914,"2,701.60"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157739,"2,728.32"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157277,"2,751.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157421,"2,783.96"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157290,"2,808.31"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157738,"2,816.43"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157242,"2,852.86"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157971,"2,855.27"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157052,"2,857.60"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157711,"2,864.26"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157713,"2,864.26"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157583,"2,870.01"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157687,"2,871.09"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157655,"2,902.96"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158021,"2,905.66"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157459,"2,916.76"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157941,"2,953.13"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157254,"2,962.80"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157260,"2,968.68"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157540,"2,973.93"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157474,"2,978.85"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157156,"2,999.92"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158509,"3,010.05"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157126,"3,029.21"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157372,"3,040.88"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157267,"3,044.26"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157797,"3,074.40"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157247,"3,092.95"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157451,"3,107.33"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157365,"3,111.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157413,"3,112.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157458,"3,130.36"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157585,"3,153.00"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158017,"3,153.15"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157550,"3,176.98"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157551,"3,176.98"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158198,"3,189.15"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157331,"3,196.52"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158178,"3,207.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157152,"3,212.59"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157258,"3,235.06"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157362,"3,240.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157112,"3,244.62"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157342,"3,291.75"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157948,"3,296.63"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157351,"3,311.10"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157444,"3,314.74"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157569,"3,317.22"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157329,"3,319.20"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157204,"3,320.25"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158637,"3,331.54"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157250,"3,331.66"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158015,"3,337.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157622,"3,361.81"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157005,"3,382.60"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157479,"3,448.50"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157730,"3,448.77"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157103,"3,464.13"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158564,"3,464.70"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157352,"3,481.52"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158138,"3,495.36"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157623,"3,506.37"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157615,"3,529.52"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5158063,"3,532.05"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158056,"3,533.79"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157447,"3,534.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157095,"3,558.79"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157284,"3,566.89"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157450,"3,579.00"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157969,"3,581.87"
+DESNZ,UKAEA,27/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5159036,"3,610.80"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157633,"3,624.38"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157483,"3,633.00"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157704,"3,634.73"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157092,"3,660.80"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157044,"3,664.45"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157148,"3,672.73"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157124,"3,695.04"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157465,"3,710.40"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157119,"3,721.92"
+DESNZ,UKAEA,27/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158741,"3,721.92"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157904,"3,722.64"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157688,"3,726.23"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157404,"3,729.04"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157093,"3,764.43"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158013,"3,784.20"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157962,"3,789.28"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157125,"3,791.92"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157666,"3,797.19"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158009,"3,797.64"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157261,"3,821.82"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157709,"3,823.95"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157462,"3,825.00"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158443,"3,861.30"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157123,"3,901.04"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157270,"3,905.26"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157542,"3,905.26"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157109,"3,975.67"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157403,"3,991.50"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157317,"3,999.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157214,"4,050.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5156983,"4,139.40"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157863,"4,150.14"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157643,"4,151.25"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157111,"4,163.60"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157590,"4,172.62"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158510,"4,175.53"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157409,"4,213.09"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157106,"4,229.30"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157110,"4,282.74"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157396,"4,285.34"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157931,"4,310.40"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157289,"4,311.77"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157582,"4,326.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157227,"4,349.10"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157716,"4,382.40"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157179,"4,417.89"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157367,"4,432.23"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157437,"4,452.23"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157245,"4,466.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157045,"4,485.89"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157025,"4,495.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157151,"4,507.43"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5156990,"4,567.50"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157970,"4,582.52"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5158468,"4,589.28"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158176,"4,620.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157485,"4,629.39"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157418,"4,635.00"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158088,"4,635.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157427,"4,637.85"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157330,"4,653.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157501,"4,666.89"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157104,"4,667.40"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158403,"4,668.30"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157472,"4,670.26"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157561,"4,690.39"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157120,"4,694.25"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157473,"4,703.92"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157638,"4,704.81"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157114,"4,747.52"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157910,"4,765.09"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157964,"4,814.74"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157613,"4,875.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5156861,"4,904.14"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157700,"4,934.34"
+DESNZ,UKAEA,27/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5159033,"4,951.90"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157269,"4,961.26"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157496,"4,961.26"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157460,"4,972.80"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5156839,"4,979.27"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157181,"4,987.95"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157555,"4,992.88"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157198,"4,994.09"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157096,"4,998.70"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157006,"5,009.64"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5158469,"5,023.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157091,"5,037.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157420,"5,037.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157402,"5,051.60"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157171,"5,059.38"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157714,"5,079.60"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157305,"5,113.43"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157484,"5,123.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157026,"5,174.40"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158266,"5,188.55"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157680,"5,190.48"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157283,"5,199.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157445,"5,238.59"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157712,"5,270.25"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157146,"5,293.05"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158412,"5,308.60"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157456,"5,312.13"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157276,"5,337.17"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157940,"5,345.93"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158180,"5,347.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5156999,"5,361.32"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157690,"5,373.00"
+DESNZ,UKAEA,27/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158915,"5,388.86"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158466,"5,440.34"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157663,"5,448.39"
+DESNZ,UKAEA,27/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158745,"5,454.62"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157380,"5,458.67"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157048,"5,496.34"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157702,"5,507.98"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157378,"5,509.50"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157183,"5,511.90"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157255,"5,519.25"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157222,"5,535.66"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157353,"5,538.48"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158205,"5,555.27"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157087,"5,588.04"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158467,"5,618.34"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158020,"5,641.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157163,"5,683.44"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157744,"5,692.10"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157960,"5,728.50"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157933,"5,744.25"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157173,"5,765.78"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157538,"5,776.77"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157708,"5,779.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157170,"5,779.54"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157630,"5,799.75"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157706,"5,863.52"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157707,"5,863.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157448,"5,877.00"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157710,"5,883.00"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157959,"5,883.00"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157967,"5,883.00"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157705,"5,905.52"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157957,"5,911.52"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157963,"5,911.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157137,"5,939.13"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157298,"5,966.12"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157664,"6,113.25"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157463,"6,158.29"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157153,"6,162.80"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157968,"6,174.00"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157890,"6,205.50"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157013,"6,270.00"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158179,"6,287.97"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158569,"6,359.70"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157140,"6,374.25"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157958,"6,392.86"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157379,"6,433.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157328,"6,451.68"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158514,"6,468.67"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158573,"6,485.71"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158515,"6,521.16"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157302,"6,546.39"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157780,"6,559.43"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157480,"6,567.75"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157213,"6,624.47"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157491,"6,660.48"
+DESNZ,UKAEA,27/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158981,"6,705.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157274,"6,753.88"
+DESNZ,UKAEA,27/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158863,"6,760.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157433,"6,785.56"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157373,"6,833.16"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157544,"6,833.25"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157961,"6,936.16"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157566,"6,948.27"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157216,"6,953.36"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157428,"6,967.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157172,"6,978.32"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157184,"6,995.91"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157041,"6,999.16"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157874,"7,026.04"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157430,"7,053.75"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157101,"7,053.76"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157054,"7,107.70"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157034,"7,109.34"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157966,"7,120.96"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158499,"7,134.97"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157187,"7,162.05"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157229,"7,320.24"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157410,"7,328.89"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157873,"7,336.18"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157572,"7,348.45"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158060,"7,451.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157182,"7,457.06"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157891,"7,476.54"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158058,"7,494.09"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157176,"7,519.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157032,"7,549.55"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157564,"7,565.35"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157310,"7,608.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157000,"7,680.10"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157205,"7,741.80"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157932,"7,765.17"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157742,"7,838.94"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157197,"7,839.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157432,"7,846.05"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157315,"7,888.52"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157861,"7,941.54"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157568,"8,052.00"
+DESNZ,UKAEA,27/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158782,"8,069.34"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157628,"8,110.14"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157525,"8,126.79"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157295,"8,148.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157340,"8,148.00"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157928,"8,152.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157360,"8,185.16"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157098,"8,229.45"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157990,"8,237.38"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157349,"8,248.38"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157300,"8,301.00"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157965,"8,331.84"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157665,"8,334.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157327,"8,337.48"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157336,"8,361.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157017,"8,377.50"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158442,"8,407.58"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157629,"8,418.83"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157750,"8,461.32"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157549,"8,464.50"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157407,"8,497.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157482,"8,515.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157494,"8,557.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157243,"8,564.70"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157348,"8,623.52"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158571,"8,623.56"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157699,"8,626.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157272,"8,634.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157135,"8,636.77"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157337,"8,644.34"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157634,"8,661.13"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157875,"8,664.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157571,"8,782.49"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157097,"8,911.62"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158414,"8,950.67"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157031,"9,030.11"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158418,"9,057.41"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157036,"9,093.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157117,"9,403.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157552,"9,405.00"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157786,"9,405.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157412,"9,405.03"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157640,"9,406.44"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157030,"9,423.75"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157047,"9,496.02"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158008,"9,592.24"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157264,"9,652.50"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158432,"9,732.17"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157567,"9,777.60"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157102,"9,895.78"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5156837,"9,925.42"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157292,"9,942.09"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5156807,"10,016.83"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158433,"10,048.35"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157200,"10,086.93"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5156827,"10,157.84"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157507,"10,176.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157273,"10,189.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157639,"10,189.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157627,"10,204.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157118,"10,298.48"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157477,"10,337.24"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158570,"10,348.24"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157113,"10,423.89"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157801,"10,468.08"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157652,"10,511.26"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157382,"10,629.60"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157812,"10,797.00"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158019,"10,813.95"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157560,"10,815.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157435,"10,884.00"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158267,"10,996.44"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157481,"11,038.49"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157495,"11,121.47"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157253,"11,309.36"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157381,"11,757.02"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158635,"11,793.87"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157490,"12,353.11"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157090,"12,360.00"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158513,"12,717.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157408,"12,796.91"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157099,"12,910.52"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157023,"13,030.61"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5158500,"13,035.33"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157010,"13,105.80"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157004,"13,324.54"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Support Services,Rullion Engineering Ltd,5157449,"13,417.42"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Other,Rullion Engineering Ltd,5157339,"13,492.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157239,"14,925.00"
+DESNZ,UKAEA,06/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157256,"14,985.40"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5158434,"15,444.00"
+DESNZ,UKAEA,13/09/2023,Hired Agency Staff - Rullion CMF/PO,Fusion,Rullion Engineering Ltd,5157745,"15,888.74"
+DESNZ,UKAEA,21/09/2023,Professional Services,Fusion,NRB SA,5158713,"18,825.15"
+DESNZ,UKAEA,18/09/2023,Professional Services,Fusion,Pelican Software Ltd,5158278,"3,416.94"
+DESNZ,UKAEA,25/09/2023,Research,Other,3-Sci Ltd,5158801,"134,400.00"
+DESNZ,UKAEA,18/09/2023,Research,Other,AQSORPTION LIMITED,5158262,"29,912.40"
+DESNZ,UKAEA,15/09/2023,Research,Other,AQSORPTION LIMITED,5158301,"149,562.00"
+DESNZ,UKAEA,25/09/2023,Research,Fusion,Archer Technicoat Ltd,5158659,"21,649.50"
+DESNZ,UKAEA,25/09/2023,Research,Fusion,Atkins Ltd,5158664,"6,969.20"
+DESNZ,UKAEA,04/09/2023,Research,Fusion,Atkins Ltd,5157070,"10,042.00"
+DESNZ,UKAEA,25/09/2023,Research,Fusion,Atkins Ltd,5158668,"11,349.75"
+DESNZ,UKAEA,27/09/2023,Research,Fusion,Atkins Ltd,5159013,"12,806.00"
+DESNZ,UKAEA,25/09/2023,Research,Fusion,Atkins Ltd,5158665,"13,926.25"
+DESNZ,UKAEA,25/09/2023,Research,Fusion,Atkins Ltd,5158667,"14,253.90"
+DESNZ,UKAEA,04/09/2023,Research,Fusion,Atkins Ltd,5156925,"16,332.50"
+DESNZ,UKAEA,20/09/2023,Research,Fusion,Atkins Ltd,5158562,"20,778.80"
+DESNZ,UKAEA,27/09/2023,Research,Fusion,Atkins Ltd,5158901,"22,360.00"
+DESNZ,UKAEA,25/09/2023,Research,Fusion,Atkins Ltd,5158893,"30,896.00"
+DESNZ,UKAEA,25/09/2023,Research,Fusion,Atkins Ltd,5158744,"35,302.25"
+DESNZ,UKAEA,04/09/2023,Research,Fusion,Atkins Ltd,5156826,"41,046.21"
+DESNZ,UKAEA,11/09/2023,Research,Fusion,Atkins Ltd,5157943,"44,000.00"
+DESNZ,UKAEA,11/09/2023,Research,Other,DigiLab Solutions Ltd,5157856,"20,700.00"
+DESNZ,UKAEA,11/09/2023,Research,Other,DigiLab Solutions Ltd,5157781,"20,700.32"
+DESNZ,UKAEA,11/09/2023,Research,Other,DigiLab Solutions Ltd,5157857,"24,313.91"
+DESNZ,UKAEA,04/09/2023,Research,Fusion,Frazer Nash Consultancy,5156794,"12,500.00"
+DESNZ,UKAEA,25/09/2023,Research,Other,Full Matrix Ltd,5158737,"64,192.70"
+DESNZ,UKAEA,25/09/2023,Research,Other,Full Matrix Ltd,5158730,"86,012.25"
+DESNZ,UKAEA,27/09/2023,Research,Other,HSE - Financial Operations,5158943,"3,054.40"
+DESNZ,UKAEA,04/09/2023,Research,Fusion,Imperial College London - GBP,5157003,"18,957.60"
+DESNZ,UKAEA,27/09/2023,Research,Fusion,Materials Processing Institute,5159023,"10,000.00"
+DESNZ,UKAEA,27/09/2023,Research,Fusion,Netzsch Thermal Instruments UK Ltd,5159022,539.00
+DESNZ,UKAEA,14/09/2023,Research,Fusion,Nuclear Physics Insitute of the CAS,5158237,"2,672.84"
+DESNZ,UKAEA,25/09/2023,Research,Other,Ove Arup & Partners,5158830,"10,000.00"
+DESNZ,UKAEA,11/09/2023,Research,Other,Oxford Sigma Limited,5157895,"46,950.41"
+DESNZ,UKAEA,13/09/2023,Research,Fusion,Oxford University - GBP,5158107,"1,935.23"
+DESNZ,UKAEA,18/09/2023,Research,Fusion,Strathclyde University,5158411,"2,750.00"
+DESNZ,UKAEA,18/09/2023,Research,Fusion,The University Of Sheffield,5158457,"58,286.11"
+DESNZ,UKAEA,27/09/2023,Research,Other,TWI Ltd,5159054,"14,400.00"
+DESNZ,UKAEA,11/09/2023,Research,Fusion,UK Research and Innovation,5157754,"36,304.00"
+DESNZ,UKAEA,14/09/2023,Research,Fusion,University of Birmingham - EUR,5156963,"36,501.97"
+DESNZ,UKAEA,20/09/2023,Research,Fusion,University Of Birmingham - GBP,5158465,"22,500.00"
+DESNZ,UKAEA,25/09/2023,Research,Other,University Of Birmingham - GBP,5158751,"249,393.66"
+DESNZ,UKAEA,25/09/2023,Research,Other,University of Manchester (GBP),5158836,"24,000.00"
+DESNZ,UKAEA,25/09/2023,Research,Other,University of Manchester (GBP),5158836,"24,000.00"
+DESNZ,UKAEA,07/09/2023,Research,Other,"UT-Battelle, LLC dba Oak Ridge National Laboratory",5157589,"78,149.55"
+DESNZ,UKAEA,28/09/2023,Research,Other,"UT-Battelle, LLC dba Oak Ridge National Laboratory",5158955,"111,153.34"
+DESNZ,UKAEA,06/09/2023,Professional Services,Property,Planning Portal Quest Limited,5157674,"5,146.00"
+DESNZ,UKAEA,20/09/2023,Hired Agency Staff - Rullion Technical CMF/PO,Fusion,Rullion Engineering Ltd,5158431,"3,557.50"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Budget Forktrucks Ltd,5156853,606.67
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Budget Forktrucks Ltd,5156854,606.67
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Budget Forktrucks Ltd,5158886,606.67
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Budget Forktrucks Ltd,5158887,606.67
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Budget Forktrucks Ltd,5156851,615.33
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Budget Forktrucks Ltd,5158884,615.33
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Budget Forktrucks Ltd,5156856,736.67
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Budget Forktrucks Ltd,5158885,736.67
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Budget Forktrucks Ltd,5156852,"1,256.67"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Other,Budget Forktrucks Ltd,5156855,"1,256.67"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Property,Budget Forktrucks Ltd,5158858,"1,256.67"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Property,Budget Forktrucks Ltd,5158888,"1,256.67"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,Budget Forktrucks Ltd,5156850,"1,430.00"
+DESNZ,UKAEA,25/09/2023,Engineering Goods,Fusion,Budget Forktrucks Ltd,5158889,"1,430.00"
+DESNZ,UKAEA,04/09/2023,Engineering Goods,Fusion,IMES International Ltd.,5156846,800.00
+DESNZ,UKAEA,18/09/2023,Fleet,Other,ALD Automotive Ltd. T/A Ford Lease,5158381,"4,494.32"
+DESNZ,UKAEA,04/09/2023,Fleet,Fusion,Rabbits Vehicle Hire,5156831,685.72
+DESNZ,UKAEA,27/09/2023,Fleet,Fusion,Rabbits Vehicle Hire,5158953,685.72
+DESNZ,UKAEA,13/09/2023,Fleet,Property,Rabbits Vehicle Hire,5158153,770.00
+DESNZ,UKAEA,13/09/2023,Fleet,Fusion,Rabbits Vehicle Hire,5158155,870.00
+DESNZ,UKAEA,27/09/2023,Travel,Other,Rabbits Vehicle Hire,5158954,583.85
+DESNZ,UKAEA,04/09/2023,Travel,Other,Rabbits Vehicle Hire,5156896,805.00
+DESNZ,UKAEA,11/09/2023,Travel,Fusion,Wessex Fleet Solutions Ltd,5157985,719.47
+DESNZ,UKAEA,11/09/2023,Travel,Fusion,Wessex Fleet Solutions Ltd,5157987,955.39
+DESNZ,UKAEA,13/09/2023,Engineering Goods,Fusion,Sarens UK Ltd,5158079,"1,215.00"
+DESNZ,UKAEA,25/09/2023,Operational Goods,Fusion,Jisc Services Ltd,5158792,"2,300.00"
+DESNZ,UKAEA,18/09/2023,Operational Goods,Fusion,OASIS Group,5158415,"5,955.16"
+DESNZ,UKAEA,11/09/2023,Operational Goods,Property,Sundry Supplier,5157795,"3,550.00"
+DESNZ,UKAEA,25/09/2023,Operational Goods,Fusion,Taylor and Francis Group - GBP,5158657,"1,515.00"
+DESNZ,UKAEA,18/09/2023,Operational Goods,Support Services,Taylor and Francis Group - GBP,5158294,"1,828.00"
+DESNZ,UKAEA,18/09/2023,Learning and Development,Other,Bay Fusion Limited,5158295,"9,000.00"
+DESNZ,UKAEA,29/09/2023,Learning and Development,Other,IDOM UK Ltd,5154914,"3,000.00"
+DESNZ,UKAEA,18/09/2023,Learning and Development,Other,Imperial College London - GBP,5158236,"3,000.00"
+DESNZ,UKAEA,05/09/2023,Learning and Development,Fusion,P-Card Supplier,5156457,500.00
+DESNZ,UKAEA,05/09/2023,Learning and Development,Other,P-Card Supplier,5146866,550.00
+DESNZ,UKAEA,05/09/2023,Learning and Development,Fusion,P-Card Supplier,5150463,610.00
+DESNZ,UKAEA,05/09/2023,Learning and Development,Fusion,P-Card Supplier,5149095,795.33
+DESNZ,UKAEA,05/09/2023,Learning and Development,Fusion,P-Card Supplier,5149095,795.33
+DESNZ,UKAEA,05/09/2023,Learning and Development,Property,P-Card Supplier,5151164,922.95
+DESNZ,UKAEA,05/09/2023,Learning and Development,Support Services,P-Card Supplier,5151299,"1,000.00"
+DESNZ,UKAEA,05/09/2023,Learning and Development,Support Services,P-Card Supplier,5151299,"1,000.00"
+DESNZ,UKAEA,05/09/2023,Learning and Development,Support Services,P-Card Supplier,5151299,"1,200.00"
+DESNZ,UKAEA,05/09/2023,Learning and Development,Support Services,P-Card Supplier,5150911,"1,278.33"
+DESNZ,UKAEA,05/09/2023,Learning and Development,Support Services,P-Card Supplier,5145713,"1,290.00"
+DESNZ,UKAEA,05/09/2023,Learning and Development,Support Services,P-Card Supplier,5149667,"1,290.00"
+DESNZ,UKAEA,27/09/2023,Learning and Development,Support Services,University of The West of England,5159046,"5,781.00"
+DESNZ,UKAEA,14/09/2023,Personnel Related,Fusion,Elipse Gestion De Eventos,5158227,-890.03
+DESNZ,UKAEA,05/09/2023,Personnel Related,Fusion,P-Card Supplier,5157453,-643.73
+DESNZ,UKAEA,05/09/2023,Personnel Related,Fusion,P-Card Supplier,5154664,541.67
+DESNZ,UKAEA,05/09/2023,Personnel Related,Fusion,P-Card Supplier,5154664,541.67
+DESNZ,UKAEA,05/09/2023,Personnel Related,Fusion,P-Card Supplier,5154664,541.67
+DESNZ,UKAEA,05/09/2023,Personnel Related,Fusion,P-Card Supplier,5153321,554.19
+DESNZ,UKAEA,05/09/2023,Personnel Related,Fusion,P-Card Supplier,5153321,584.15
+DESNZ,UKAEA,05/09/2023,Personnel Related,Fusion,P-Card Supplier,5153321,584.51
+DESNZ,UKAEA,05/09/2023,Personnel Related,Fusion,P-Card Supplier,5153321,600.00
+DESNZ,UKAEA,05/09/2023,Personnel Related,Fusion,P-Card Supplier,5155639,648.99
+DESNZ,UKAEA,05/09/2023,Personnel Related,Fusion,P-Card Supplier,5155639,723.92
+DESNZ,UKAEA,05/09/2023,Personnel Related,Fusion,P-Card Supplier,5152388,843.35
+DESNZ,UKAEA,05/09/2023,Personnel Related,Fusion,P-Card Supplier,5152388,889.85
+DESNZ,UKAEA,05/09/2023,Personnel Related,Fusion,P-Card Supplier,5149654,890.05
+DESNZ,UKAEA,05/09/2023,Personnel Related,Other,P-Card Supplier,5151920,990.07
+DESNZ,UKAEA,05/09/2023,Personnel Related,Other,P-Card Supplier,5149339,"1,110.00"
+DESNZ,UKAEA,06/09/2023,Learning and Development,Other,Beckhoff Automation Ltd,5157586,"1,200.00"
+DESNZ,UKAEA,04/09/2023,Learning and Development,Support Services,BSRIA Limited,5156889,765.00
+DESNZ,UKAEA,20/09/2023,Learning and Development,Support Services,Ernst And Young Llp,5158494,"1,680.00"
+DESNZ,UKAEA,06/09/2023,Learning and Development,Fusion,Institution of Mechanical Engineers,5157607,"1,350.00"
+DESNZ,UKAEA,21/09/2023,Learning and Development,Other,Kitware SAS,5158354,"1,736.84"
+DESNZ,UKAEA,04/09/2023,Learning and Development,Support Services,Neurodiversity Specialists,5157021,850.00
+DESNZ,UKAEA,04/09/2023,Learning and Development,Support Services,Neurodiversity Specialists,5157022,"1,000.00"
+DESNZ,UKAEA,18/09/2023,Learning and Development,Support Services,Neurodiversity Specialists,5158328,"1,000.00"
+DESNZ,UKAEA,25/09/2023,Learning and Development,Support Services,Neurodiversity Specialists,5158828,"1,000.00"
+DESNZ,UKAEA,18/09/2023,Learning and Development,Other,Parallel Project Management Limited,5158359,-810.00
+DESNZ,UKAEA,18/09/2023,Learning and Development,Other,Parallel Project Management Limited,5158358,900.00
+DESNZ,UKAEA,25/09/2023,Learning and Development,Other,Parallel Project Management Limited,5158873,"1,620.00"
+DESNZ,UKAEA,05/09/2023,Learning and Development,Support Services,P-Card Supplier,5150429,764.00
+DESNZ,UKAEA,05/09/2023,Learning and Development,Support Services,P-Card Supplier,5151665,"1,750.00"
+DESNZ,UKAEA,04/09/2023,Learning and Development,Other,PHOENIX CONTROL SYSTEMS LIMITED,5157159,"2,420.00"
+DESNZ,UKAEA,13/09/2023,Learning and Development,Other,Pilz Automation Technology,5158061,"3,000.00"
+DESNZ,UKAEA,11/09/2023,Learning and Development,Support Services,Premier People Solutions T/A Premier Partnership,5157832,603.75
+DESNZ,UKAEA,25/09/2023,Learning and Development,Other,Premier People Solutions T/A Premier Partnership,5158894,690.00
+DESNZ,UKAEA,27/09/2023,Learning and Development,Support Services,Premier People Solutions T/A Premier Partnership,5159004,"1,000.00"
+DESNZ,UKAEA,04/09/2023,Learning and Development,Fusion,Premier People Solutions T/A Premier Partnership,5157019,"2,718.00"
+DESNZ,UKAEA,18/09/2023,Learning and Development,Support Services,Premier People Solutions T/A Premier Partnership,5158339,"2,827.00"
+DESNZ,UKAEA,11/09/2023,Learning and Development,Support Services,Premier People Solutions T/A Premier Partnership,5157906,"4,945.00"
+DESNZ,UKAEA,20/09/2023,Learning and Development,Support Services,Premier People Solutions T/A Premier Partnership,5158636,"5,470.00"
+DESNZ,UKAEA,04/09/2023,Learning and Development,Support Services,sfG MentorNet Ltd,5157162,"1,520.00"
+DESNZ,UKAEA,11/09/2023,Learning and Development,Support Services,Skern Lodge Ltd.,5157783,"15,219.50"
+DESNZ,UKAEA,04/09/2023,Learning and Development,Property,Sundry Supplier,5156739,"1,295.00"
+DESNZ,UKAEA,20/09/2023,Learning and Development,Fusion,Sundry Supplier,5158606,"1,560.00"
+DESNZ,UKAEA,06/09/2023,Learning and Development,Property,Sundry Supplier,5157599,"1,600.00"
+DESNZ,UKAEA,27/09/2023,Learning and Development,Fusion,Sundry Supplier,5158722,"2,327.34"
+DESNZ,UKAEA,27/09/2023,Learning and Development,Support Services,The Active Bystander Training Company Ltd,5159012,700.00
+DESNZ,UKAEA,18/09/2023,Learning and Development,Property,Thomas Telford Ltd,5158323,922.95
+DESNZ,UKAEA,06/09/2023,Learning and Development,Support Services,TWI Ltd,5157350,"1,690.00"
+DESNZ,UKAEA,18/09/2023,Learning and Development,Fusion,TWI Ltd,5158228,"9,714.00"
+DESNZ,UKAEA,11/09/2023,Learning and Development,Fusion,UK Health Security Agency,5157806,"1,780.00"
+DESNZ,UKAEA,18/09/2023,Learning and Development,Fusion,UK Health Security Agency,5158345,"2,015.00"
+DESNZ,UKAEA,25/09/2023,Learning and Development,Fusion,UK Health Security Agency,5158841,"2,015.00"
+DESNZ,UKAEA,06/09/2023,Learning and Development,Support Services,Visionsports Ltd,5157497,"3,145.00"
+DESNZ,UKAEA,11/09/2023,Facilities,Other,Amber Integrated Controls & Automation Ltd.,5157823,"17,276.25"
+DESNZ,UKAEA,11/09/2023,Facilities,Other,Aquila Nuclear Engineering Ltd,5157849,"13,114.75"
+DESNZ,UKAEA,04/09/2023,Facilities,Fusion,Arcadis (UK) Ltd.,5157281,809.58
+DESNZ,UKAEA,04/09/2023,Facilities,Fusion,Arcadis (UK) Ltd.,5157280,"1,633.73"
+DESNZ,UKAEA,04/09/2023,Facilities,Fusion,Assystem UK Limited,5157160,"7,264.52"
+DESNZ,UKAEA,20/09/2023,Facilities,Fusion,Atkins Ltd,5158607,"1,095.26"
+DESNZ,UKAEA,20/09/2023,Facilities,Fusion,Atkins Ltd,5158607,"1,828.39"
+DESNZ,UKAEA,25/09/2023,Facilities,Fusion,Atkins Ltd,5158753,"3,877.21"
+DESNZ,UKAEA,18/09/2023,Facilities,Fusion,Atkins Ltd,5158268,"4,162.62"
+DESNZ,UKAEA,20/09/2023,Facilities,Fusion,Atkins Ltd,5158642,"4,168.80"
+DESNZ,UKAEA,27/09/2023,Facilities,Fusion,Atkins Ltd,5158942,"5,963.93"
+DESNZ,UKAEA,25/09/2023,Facilities,Fusion,Atkins Ltd,5158754,"6,575.10"
+DESNZ,UKAEA,18/09/2023,Facilities,Support Services,Atkins Ltd,5158454,"6,818.95"
+DESNZ,UKAEA,18/09/2023,Facilities,Fusion,Atkins Ltd,5158271,"6,952.90"
+DESNZ,UKAEA,18/09/2023,Facilities,Fusion,Atkins Ltd,5158377,"8,673.93"
+DESNZ,UKAEA,18/09/2023,Facilities,Fusion,Atkins Ltd,5158259,"9,279.48"
+DESNZ,UKAEA,13/09/2023,Facilities,Fusion,Atkins Ltd,5158223,"9,533.98"
+DESNZ,UKAEA,18/09/2023,Facilities,Fusion,Atkins Ltd,5158239,"9,557.50"
+DESNZ,UKAEA,27/09/2023,Facilities,Other,Atkins Ltd,5158983,"10,433.60"
+DESNZ,UKAEA,18/09/2023,Facilities,Fusion,Atkins Ltd,5158325,"11,046.40"
+DESNZ,UKAEA,13/09/2023,Facilities,Fusion,Atkins Ltd,5158222,"12,315.20"
+DESNZ,UKAEA,20/09/2023,Facilities,Property,Bojen Electrical Ltd,5158299,"2,436.78"
+DESNZ,UKAEA,20/09/2023,Facilities,Property,Bojen Electrical Ltd,5158298,"19,485.89"
+DESNZ,UKAEA,13/09/2023,Facilities,Other,Carlton Forest 3PL Ltd,5158141,"1,000.00"
+DESNZ,UKAEA,13/09/2023,Facilities,Other,Carlton Forest 3PL Ltd,5158142,"6,260.00"
+DESNZ,UKAEA,13/09/2023,Facilities,Other,Carlton Forest 3PL Ltd,5158142,"10,740.00"
+DESNZ,UKAEA,11/09/2023,Facilities,Fusion,Define Planning and Design Limited,5157747,"17,500.00"
+DESNZ,UKAEA,04/09/2023,Facilities,Fusion,Element Digital Engineering Ltd,5157086,"14,364.00"
+DESNZ,UKAEA,11/09/2023,Facilities,Other,Element Digital Engineering Ltd,5157811,"17,214.42"
+DESNZ,UKAEA,04/09/2023,Facilities,Other,Element Digital Engineering Ltd,5157263,"17,593.95"
+DESNZ,UKAEA,18/09/2023,Facilities,Fusion,Element Digital Engineering Ltd,5158313,"21,592.58"
+DESNZ,UKAEA,04/09/2023,Facilities,Fusion,Element Digital Engineering Ltd,5156978,"22,897.13"
+DESNZ,UKAEA,11/09/2023,Facilities,Support Services,Engineering Analysis Services Ltd,5157889,907.95
+DESNZ,UKAEA,13/09/2023,Facilities,Fusion,Engineering Analysis Services Ltd,5158118,"8,272.28"
+DESNZ,UKAEA,29/09/2023,Facilities,Fusion,IDOM UK Ltd,5155041,"10,329.02"
+DESNZ,UKAEA,20/09/2023,Facilities,Fusion,Jacobs Clean Energy Ltd - GBP,5158560,"19,674.82"
+DESNZ,UKAEA,07/09/2023,Facilities,Fusion,Linde Kryotechnik Ag,5157225,"9,319.22"
+DESNZ,UKAEA,11/09/2023,Facilities,Fusion,Mirion Technologies (Canberra UK) Limited,5157989,"1,000.00"
+DESNZ,UKAEA,06/09/2023,Facilities,Fusion,Morson Projects Ltd.,5157335,"1,359.36"
+DESNZ,UKAEA,06/09/2023,Facilities,Other,Nuvia Limited,5157027,"-20,700.00"
+DESNZ,UKAEA,06/09/2023,Facilities,Other,Nuvia Limited,5157028,"-18,000.00"
+DESNZ,UKAEA,20/09/2023,Facilities,Other,Nuvia Limited,5158281,"3,717.12"
+DESNZ,UKAEA,20/09/2023,Facilities,Other,Nuvia Limited,5158280,"11,700.00"
+DESNZ,UKAEA,06/09/2023,Facilities,Other,Nuvia Limited,5157029,"12,360.00"
+DESNZ,UKAEA,20/09/2023,Facilities,Other,Nuvia Limited,5158279,"20,700.00"
+DESNZ,UKAEA,13/09/2023,Facilities,Fusion,Nuvia Limited,5157839,"20,818.04"
+DESNZ,UKAEA,06/09/2023,Facilities,Fusion,Quartzelec Ltd,5157576,"87,977.65"
+DESNZ,UKAEA,06/09/2023,Facilities,Other,Socomec U.K. Limited,5157316,"1,304.03"
+DESNZ,UKAEA,18/09/2023,Facilities,Fusion,Socomec U.K. Limited,5158293,"2,878.00"
+DESNZ,UKAEA,13/09/2023,Facilities,Fusion,Socomec U.K. Limited,5158140,"3,011.00"
+DESNZ,UKAEA,27/09/2023,Facilities,Other,Sundry Supplier,5158847,820.00
+DESNZ,UKAEA,04/09/2023,Facilities,Other,TWI Ltd,5156816,"5,000.00"
+DESNZ,UKAEA,04/09/2023,Facilities,Other,TWI Ltd,5156868,"10,142.60"
+DESNZ,UKAEA,20/09/2023,Construction,Property,Amber Construction Services Ltd,5158341,"1,452.00"
+DESNZ,UKAEA,20/09/2023,Construction,Property,Amber Construction Services Ltd,5158341,"15,284.56"
+DESNZ,UKAEA,20/09/2023,Construction,Property,Amber Construction Services Ltd,5158341,"77,197.13"
+DESNZ,UKAEA,20/09/2023,Construction,Property,Amber Construction Services Ltd,5158341,"150,000.00"
+DESNZ,UKAEA,27/09/2023,Construction,Property,Ameresco Ltd,5159017,"49,664.27"
+DESNZ,UKAEA,13/09/2023,Construction,Property,Associated Asphalt Contracting Ltd,5157911,"257,473.00"
+DESNZ,UKAEA,04/09/2023,Construction,Fusion,Chargemaster Limited,5156892,"5,199.00"
+DESNZ,UKAEA,27/09/2023,Construction,Fusion,EDF Energy (Thermal Generation) Ltd,5159020,"250,000.00"
+DESNZ,UKAEA,11/09/2023,Construction,Fusion,Ground Investigatiion Services,5157758,790.00
+DESNZ,UKAEA,11/09/2023,Construction,Property,Ground Investigatiion Services,5157898,"1,301.00"
+DESNZ,UKAEA,04/09/2023,Construction,Fusion,Ground Investigatiion Services,5157262,"3,745.00"
+DESNZ,UKAEA,13/09/2023,Construction,Property,McLaughlin & Harvey Limited PBA OAS Phase 3,5158195,"356,430.31"
+DESNZ,UKAEA,20/09/2023,Construction,Property,McLaughlin & Harvey Limited PBA OAS Phase 3,5158631,"428,179.00"
+DESNZ,UKAEA,13/09/2023,Construction,Property,McLaughlin & Harvey Limited PBA OAS Phase 3,5158195,"563,330.69"
+DESNZ,UKAEA,20/09/2023,Construction,Property,McLaughlin & Harvey Ltd - Main Gate PBA,5158380,"396,490.00"
+DESNZ,UKAEA,20/09/2023,Construction,Property,McLaughlin & Harvey Ltd - PBA: Offices,5158656,"1,789,052.40"
+DESNZ,UKAEA,06/09/2023,Construction,Property,McLaughlin & Harvey Ltd - PBA: Offices,5157554,"2,374,084.42"
+DESNZ,UKAEA,27/09/2023,Construction,Property,Mildren Construction Ltd,5158846,"1,701.03"
+DESNZ,UKAEA,27/09/2023,Construction,Property,Mildren Construction Ltd,5158845,"2,339.76"
+DESNZ,UKAEA,13/09/2023,Construction,Property,Mildren Construction Ltd,5157955,"12,855.83"
+DESNZ,UKAEA,13/09/2023,Construction,Property,Mildren Construction Ltd,5157956,"31,068.72"
+DESNZ,UKAEA,20/09/2023,Construction,Other,Optimum Electrical Engineering Limited,5158246,"92,304.34"
+DESNZ,UKAEA,18/09/2023,Construction,Property,Reece Safety Products Ltd,5158315,"2,183.40"
+DESNZ,UKAEA,27/09/2023,Construction,Fusion,Stevenson Construction,5158995,700.00
+DESNZ,UKAEA,11/09/2023,Construction,Property,Thames Water Utilities Limited - Reading,5157896,"7,541.60"
+DESNZ,UKAEA,06/09/2023,Personnel Related,Other,Nuvia Limited,5157189,872.05
+DESNZ,UKAEA,06/09/2023,Personnel Related,Fusion,Nuvia Limited,5157189,"1,716.18"
+DESNZ,UKAEA,06/09/2023,Personnel Related,Fusion,Nuvia Limited,5157189,"15,883.09"
+DESNZ,UKAEA,06/09/2023,Personnel Related,Fusion,Nuvia Limited,5157671,"17,859.06"
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,RCD Lockinge Ltd,5157237,"2,536.44"
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,RCD Lockinge Ltd,5157241,"8,191.65"
+DESNZ,UKAEA,06/09/2023,Construction,Support Services,Altrad Babcock Limited,5156890,"18,521.68"
+DESNZ,UKAEA,20/09/2023,Construction,Support Services,Altrad Babcock Limited,5158584,"20,006.30"
+DESNZ,UKAEA,20/09/2023,Construction,Property,Level Access Lifts Limited,5158654,"17,362.20"
+DESNZ,UKAEA,06/09/2023,ICT,Property,Ivanti UK Ltd,5157684,"1,350.00"
+DESNZ,UKAEA,18/09/2023,ICT,Property,Ivanti UK Ltd,5158231,"118,834.52"
+DESNZ,UKAEA,25/09/2023,ICT,Fusion,Network Installation Solutions Ltd,5158786,910.00
+DESNZ,UKAEA,18/09/2023,ICT,Property,Snelling Business Systems Limited,5158247,"2,165.00"
+DESNZ,UKAEA,25/09/2023,ICT,Property,Spidex Software Limited,5158799,"2,174.83"
+DESNZ,UKAEA,11/09/2023,Professional Services,Other,Appleyard Lees IP LLP,5158035,"4,492.10"
+DESNZ,UKAEA,11/09/2023,Professional Services,Other,Appleyard Lees IP LLP,5158033,"5,150.00"
+DESNZ,UKAEA,21/09/2023,Professional Services,Property,Blake Morgan LLP,5158727,-958.33
+DESNZ,UKAEA,04/09/2023,Professional Services,Property,Burges Salmon,5157043,-950.00
+DESNZ,UKAEA,04/09/2023,Professional Services,Property,Burges Salmon,5156806,832.00
+DESNZ,UKAEA,11/09/2023,Professional Services,Support Services,Burges Salmon,5157922,"1,092.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Property,Burges Salmon,5156802,"1,932.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Support Services,Burges Salmon,5156803,"3,094.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Property,Burges Salmon,5156795,"3,712.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Support Services,Burges Salmon,5156836,"3,740.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,Burges Salmon,5157282,"3,990.08"
+DESNZ,UKAEA,04/09/2023,Professional Services,Property,Burges Salmon,5156802,"10,000.00"
+DESNZ,UKAEA,18/09/2023,Professional Services,Property,Burges Salmon,5158350,"10,874.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Property,Burges Salmon,5156795,"13,440.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,Burges Salmon,5157161,"83,787.71"
+DESNZ,UKAEA,11/09/2023,Professional Services,Property,Carter Jonas LLP,5157775,"1,344.50"
+DESNZ,UKAEA,04/09/2023,Professional Services,Support Services,Clyde & Co. Llp,5157202,540.50
+DESNZ,UKAEA,04/09/2023,Professional Services,Support Services,Keoghs,5156821,"3,060.00"
+DESNZ,UKAEA,11/09/2023,Professional Services,Property,Sharpe Pritchard LLP,5157950,588.98
+DESNZ,UKAEA,11/09/2023,Professional Services,Property,Sharpe Pritchard LLP,5157952,608.44
+DESNZ,UKAEA,04/09/2023,Professional Services,Property,Sharpe Pritchard LLP,5156955,712.50
+DESNZ,UKAEA,11/09/2023,Professional Services,Property,Sharpe Pritchard LLP,5157951,858.20
+DESNZ,UKAEA,11/09/2023,Professional Services,Property,Sharpe Pritchard LLP,5157954,"1,378.16"
+DESNZ,UKAEA,11/09/2023,Professional Services,Property,Sharpe Pritchard LLP,5157953,"2,551.64"
+DESNZ,UKAEA,27/09/2023,Consultancy - Other (per Cabinet Office definition),Fusion,Atkins Ltd,5158973,"9,954.11"
+DESNZ,UKAEA,25/09/2023,Consultancy - Other (per Cabinet Office definition),Fusion,Frazer Nash Consultancy,5158738,"21,814.10"
+DESNZ,UKAEA,11/09/2023,Consultancy - Other (per Cabinet Office definition),Property,Future Fire Communications Limited,5157796,568.85
+DESNZ,UKAEA,13/09/2023,Consultancy - Other (per Cabinet Office definition),Fusion,Jacobs U.K. Limited,5158054,"6,477.60"
+DESNZ,UKAEA,20/09/2023,Consultancy - Other (per Cabinet Office definition),Fusion,Jacobs U.K. Limited,5158452,"6,576.45"
+DESNZ,UKAEA,25/09/2023,Consultancy - Other (per Cabinet Office definition),Fusion,Loughborough University,5158731,"4,872.00"
+DESNZ,UKAEA,20/09/2023,Consultancy - Other (per Cabinet Office definition),Fusion,Ove Arup & Partners,5158587,"23,125.00"
+DESNZ,UKAEA,06/09/2023,Consultancy - Other (per Cabinet Office definition),Fusion,Ove Arup & Partners,5157344,"261,375.00"
+DESNZ,UKAEA,25/09/2023,Consultancy - Other (per Cabinet Office definition),Fusion,Perfect Circle JV,5158864,"83,718.18"
+DESNZ,UKAEA,20/09/2023,Consultancy - Other (per Cabinet Office definition),Fusion,Perfect Circle JV,5158529,"93,717.91"
+DESNZ,UKAEA,20/09/2023,Consultancy - Other (per Cabinet Office definition),Fusion,Perfect Circle JV,5158528,"110,120.44"
+DESNZ,UKAEA,06/09/2023,Consultancy - Other (per Cabinet Office definition),Property,Pink Elephant EMEA Ltd,5157584,"6,727.50"
+DESNZ,UKAEA,06/09/2023,Consultancy - Other (per Cabinet Office definition),Fusion,Rolls Royce Plc,5157511,"24,581.28"
+DESNZ,UKAEA,05/09/2023,Personnel Related,Support Services,CGI IT UK Limited,5151897,"7,671.03"
+DESNZ,UKAEA,18/09/2023,Professional Services,Other,Equiniti,5158240,"2,331.00"
+DESNZ,UKAEA,13/09/2023,Professional Services,Other,Equiniti,5158218,"3,811.00"
+DESNZ,UKAEA,13/09/2023,Professional Services,Other,Equiniti,5158219,"104,087.20"
+DESNZ,UKAEA,25/09/2023,Professional Services,Other,Government Actuary's Department,5158876,"9,936.64"
+DESNZ,UKAEA,04/09/2023,Professional Services,Other,Government Actuary's Department,5156988,"12,811.02"
+DESNZ,UKAEA,13/09/2023,Professional Services,Other,Paymaster (1836) Ltd RE:UKAEA Recharges,5158217,"13,322.70"
+DESNZ,UKAEA,11/09/2023,Professional Services,Support Services,Managing For Quality Ltd (Mfq),5157701,"2,720.00"
+DESNZ,UKAEA,25/09/2023,Professional Services,Fusion,4C Associates Ltd,5158808,"-53,488.85"
+DESNZ,UKAEA,25/09/2023,Professional Services,Fusion,4C Associates Ltd,5158827,"12,025.00"
+DESNZ,UKAEA,25/09/2023,Professional Services,Fusion,4C Associates Ltd,5158824,"51,050.00"
+DESNZ,UKAEA,25/09/2023,Professional Services,Fusion,4C Associates Ltd,5158824,"61,890.84"
+DESNZ,UKAEA,25/09/2023,Professional Services,Fusion,4C Associates Ltd,5158827,"82,809.97"
+DESNZ,UKAEA,20/09/2023,Professional Services,Property,Arcadis Consulting (UK) Limited,5158618,"8,181.25"
+DESNZ,UKAEA,11/09/2023,Professional Services,Property,Arcadis Consulting (UK) Limited,5157746,"10,695.85"
+DESNZ,UKAEA,11/09/2023,Professional Services,Property,Arcadis Consulting (UK) Limited,5157997,"15,545.06"
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,Atkins Ltd,5157206,573.48
+DESNZ,UKAEA,27/09/2023,Professional Services,Fusion,Atkins Ltd,5159003,849.07
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,Atkins Ltd,5157206,"2,106.48"
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,Atkins Ltd,5157212,"3,886.90"
+DESNZ,UKAEA,18/09/2023,Professional Services,Fusion,Atkins Ltd,5158366,"3,886.90"
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,Atkins Ltd,5157209,"5,929.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,Atkins Ltd,5157209,"5,929.00"
+DESNZ,UKAEA,06/09/2023,Professional Services,Fusion,Atkins Ltd,5157314,"9,347.80"
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,Atkins Ltd,5157207,"9,675.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,Atkins Ltd,5157169,"11,144.50"
+DESNZ,UKAEA,18/09/2023,Professional Services,Fusion,Atkins Ltd,5158363,"11,858.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,Atkins Ltd,5157211,"12,075.00"
+DESNZ,UKAEA,18/09/2023,Professional Services,Fusion,Atkins Ltd,5158364,"12,075.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,Atkins Ltd,5157208,"13,266.00"
+DESNZ,UKAEA,18/09/2023,Professional Services,Fusion,Atkins Ltd,5158365,"13,266.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,Atkins Ltd,5157210,"14,275.00"
+DESNZ,UKAEA,18/09/2023,Professional Services,Fusion,Atkins Ltd,5158367,"14,275.00"
+DESNZ,UKAEA,25/09/2023,Professional Services,Fusion,Atkins Ltd,5158655,"14,408.98"
+DESNZ,UKAEA,18/09/2023,Professional Services,Fusion,Atkins Ltd,5158429,"16,455.80"
+DESNZ,UKAEA,06/09/2023,Professional Services,Fusion,Atkins Ltd,5157313,"24,500.44"
+DESNZ,UKAEA,06/09/2023,Professional Services,Property,Avison Young (UK) Limited,5157516,"5,000.00"
+DESNZ,UKAEA,25/09/2023,Professional Services,Support Services,Board Intelligence Ltd,5158900,"4,425.00"
+DESNZ,UKAEA,06/09/2023,Professional Services,Support Services,Bottomline Technologies Ltd,5157636,"4,625.44"
+DESNZ,UKAEA,07/09/2023,Professional Services,Fusion,Brunel University London,5146993,"-18,000.00"
+DESNZ,UKAEA,07/09/2023,Professional Services,Fusion,Brunel University London,5150450,"4,000.00"
+DESNZ,UKAEA,11/09/2023,Professional Services,Property,BSP Consulting,5157735,"1,500.00"
+DESNZ,UKAEA,25/09/2023,Professional Services,Property,BSP Consulting,5158866,"3,700.00"
+DESNZ,UKAEA,27/09/2023,Professional Services,Property,BSP Consulting,5158945,"5,750.00"
+DESNZ,UKAEA,18/09/2023,Professional Services,Fusion,Cabinet Office (Government Business Services),5158235,"1,880.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Property,Carter Jonas LLP,5156505,"-1,250.00"
+DESNZ,UKAEA,11/09/2023,Professional Services,Property,Carter Jonas LLP,5157903,650.00
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,Carter Jonas LLP,5156772,680.00
+DESNZ,UKAEA,04/09/2023,Professional Services,Property,Carter Jonas LLP,5156811,690.00
+DESNZ,UKAEA,13/09/2023,Professional Services,Property,Carter Jonas LLP,5158203,750.00
+DESNZ,UKAEA,04/09/2023,Professional Services,Property,Carter Jonas LLP,5156809,860.00
+DESNZ,UKAEA,04/09/2023,Professional Services,Property,Carter Jonas LLP,5156810,990.00
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,Carter Jonas LLP,5156267,"1,020.00"
+DESNZ,UKAEA,06/09/2023,Professional Services,Fusion,Carter Jonas LLP,5157532,"1,067.50"
+DESNZ,UKAEA,04/09/2023,Professional Services,Property,Carter Jonas LLP,5157168,"1,100.00"
+DESNZ,UKAEA,06/09/2023,Professional Services,Property,Carter Jonas LLP,5157529,"1,428.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,Carter Jonas LLP,5156770,"1,890.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,Carter Jonas LLP,5156771,"2,230.00"
+DESNZ,UKAEA,11/09/2023,Professional Services,Property,Carter Jonas LLP,5157899,"3,726.25"
+DESNZ,UKAEA,20/09/2023,Professional Services,Property,Carter Jonas LLP,5158579,"4,455.00"
+DESNZ,UKAEA,06/09/2023,Professional Services,Fusion,Carter Jonas LLP,5157653,"6,000.00"
+DESNZ,UKAEA,14/09/2023,Professional Services,Other,Executive Relocations,5158129,691.00
+DESNZ,UKAEA,14/09/2023,Professional Services,Other,Executive Relocations,5158133,"1,423.00"
+DESNZ,UKAEA,14/09/2023,Professional Services,Other,Executive Relocations,5158126,"2,114.00"
+DESNZ,UKAEA,14/09/2023,Professional Services,Other,Executive Relocations,5158130,"2,114.00"
+DESNZ,UKAEA,14/09/2023,Professional Services,Other,Executive Relocations,5158131,"2,114.00"
+DESNZ,UKAEA,14/09/2023,Professional Services,Other,Executive Relocations,5158132,"2,114.00"
+DESNZ,UKAEA,21/09/2023,Professional Services,Other,Executive Relocations,5158490,"2,114.00"
+DESNZ,UKAEA,14/09/2023,Professional Services,Other,Executive Relocations,5158125,"2,213.00"
+DESNZ,UKAEA,14/09/2023,Professional Services,Other,Executive Relocations,5158127,"2,374.00"
+DESNZ,UKAEA,28/09/2023,Professional Services,Other,Executive Relocations,5158804,"2,696.80"
+DESNZ,UKAEA,14/09/2023,Professional Services,Other,Executive Relocations,5158124,"2,849.00"
+DESNZ,UKAEA,14/09/2023,Professional Services,Other,Executive Relocations,5158134,"3,110.16"
+DESNZ,UKAEA,28/09/2023,Professional Services,Other,Executive Relocations,5158806,"3,237.00"
+DESNZ,UKAEA,14/09/2023,Professional Services,Other,Executive Relocations,5158135,"5,761.09"
+DESNZ,UKAEA,28/09/2023,Professional Services,Other,Executive Relocations,5158805,"9,383.74"
+DESNZ,UKAEA,04/09/2023,Professional Services,Property,Faithful+Gould Ltd,5156788,"9,643.93"
+DESNZ,UKAEA,20/09/2023,Professional Services,Property,Glanville Consultants,5158563,600.00
+DESNZ,UKAEA,11/09/2023,Professional Services,Property,Glanville Consultants,5157972,"3,500.00"
+DESNZ,UKAEA,29/09/2023,Professional Services,Fusion,IDOM UK Ltd,5154545,"-41,747.40"
+DESNZ,UKAEA,13/09/2023,Professional Services,Fusion,Jacobs U.K. Limited,5157696,"29,109.00"
+DESNZ,UKAEA,13/09/2023,Professional Services,Fusion,Jacobs U.K. Limited,5157697,"29,109.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Fusion,KPMG LLP,5156980,"40,000.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Property,McBains Ltd,5156895,"4,687.25"
+DESNZ,UKAEA,11/09/2023,Professional Services,Property,McBains Ltd,5157935,"6,415.94"
+DESNZ,UKAEA,11/09/2023,Professional Services,Property,McBains Ltd,5157936,"8,155.29"
+DESNZ,UKAEA,18/09/2023,Professional Services,Fusion,Patentest UK Ltd,5158392,"1,230.00"
+DESNZ,UKAEA,18/09/2023,Professional Services,Fusion,Patentest UK Ltd,5158393,"1,230.00"
+DESNZ,UKAEA,11/09/2023,Professional Services,Property,Ridge And Partners Llp,5157973,920.00
+DESNZ,UKAEA,25/09/2023,Professional Services,Support Services,Ridge And Partners Llp,5158848,"3,595.17"
+DESNZ,UKAEA,11/09/2023,Professional Services,Property,Ridge And Partners Llp,5157897,"5,000.00"
+DESNZ,UKAEA,04/09/2023,Professional Services,Property,Ridge And Partners Llp,5157139,"5,378.10"
+DESNZ,UKAEA,18/09/2023,Professional Services,Property,Ridge And Partners Llp,5158441,"5,400.00"
+DESNZ,UKAEA,20/09/2023,Professional Services,Property,Ridge And Partners Llp,5158630,"6,500.00"
+DESNZ,UKAEA,18/09/2023,Professional Services,Property,Ridge And Partners Llp,5158378,"10,000.00"
+DESNZ,UKAEA,13/09/2023,Professional Services,Other,SA Group Ltd,5158036,"2,025.00"
+DESNZ,UKAEA,11/09/2023,Professional Services,Other,SA Group Ltd,5158012,"2,475.00"
+DESNZ,UKAEA,13/09/2023,Professional Services,Fusion,SA Group Ltd,5158045,"10,462.50"
+DESNZ,UKAEA,13/09/2023,Professional Services,Fusion,SA Group Ltd,5158047,"14,637.82"
+DESNZ,UKAEA,13/09/2023,Professional Services,Fusion,SA Group Ltd,5158048,"15,667.83"
+DESNZ,UKAEA,13/09/2023,Professional Services,Fusion,SA Group Ltd,5158042,"17,046.00"
+DESNZ,UKAEA,25/09/2023,Professional Services,Fusion,Turner & Townsend Project Management Limited,5158779,"19,424.04"
+DESNZ,UKAEA,27/09/2023,Professional Services,Other,Unit 4 Business Software,5159018,"-1,386.64"
+DESNZ,UKAEA,27/09/2023,Professional Services,Other,Unit 4 Business Software,5158326,"-1,256.64"
+DESNZ,UKAEA,27/09/2023,Professional Services,Other,Unit 4 Business Software,5157488,750.00
+DESNZ,UKAEA,27/09/2023,Professional Services,Other,Unit 4 Business Software,5158327,953.67
+DESNZ,UKAEA,27/09/2023,Professional Services,Other,Unit 4 Business Software,5156278,"12,000.00"
+DESNZ,UKAEA,27/09/2023,Professional Services,Other,Unit 4 Business Software,5158022,"12,000.00"
+DESNZ,UKAEA,27/09/2023,Professional Services,Fusion,Hydroblast,5158988,602.00
+DESNZ,UKAEA,27/09/2023,Professional Services,Fusion,Hydroblast,5158987,943.00
+DESNZ,UKAEA,18/09/2023,Facilities,Fusion,CPS Ltd,5158444,726.62
+DESNZ,UKAEA,20/09/2023,Facilities,Fusion,CPS Ltd,5158523,"1,344.35"
+DESNZ,UKAEA,20/09/2023,Facilities,Property,SPIE Limited,5158590,907.01
+DESNZ,UKAEA,20/09/2023,Facilities,Property,SPIE Limited,5158590,"4,090.39"
+DESNZ,UKAEA,20/09/2023,Facilities,Fusion,SPIE Limited,5158592,"4,400.00"
+DESNZ,UKAEA,20/09/2023,Facilities,Property,SPIE Limited,5158591,"5,689.00"
+DESNZ,UKAEA,20/09/2023,Facilities,Property,SPIE Limited,5158591,"22,387.29"
+DESNZ,UKAEA,20/09/2023,Facilities,Property,SPIE Limited,5158590,"28,723.96"
+DESNZ,UKAEA,20/09/2023,Facilities,Fusion,SPIE Limited,5158590,"33,207.08"
+DESNZ,UKAEA,20/09/2023,Facilities,Property,SPIE Limited,5158591,"74,031.69"
+DESNZ,UKAEA,20/09/2023,Facilities,Fusion,SPIE Limited,5158591,"88,479.12"
+DESNZ,UKAEA,20/09/2023,Facilities,Property,Graham Asset Management Ltd,5158518,"1,425.65"
+DESNZ,UKAEA,20/09/2023,Facilities,Property,Graham Asset Management Ltd,5158521,"1,429.25"
+DESNZ,UKAEA,20/09/2023,Facilities,Property,Graham Asset Management Ltd,5158519,"2,022.31"
+DESNZ,UKAEA,20/09/2023,Facilities,Property,Graham Asset Management Ltd,5158522,"2,022.31"
+DESNZ,UKAEA,27/09/2023,Facilities,Property,Graham Asset Management Ltd,5159010,"3,456.12"
+DESNZ,UKAEA,20/09/2023,Facilities,Property,Graham Asset Management Ltd,5158520,"11,063.14"
+DESNZ,UKAEA,20/09/2023,Facilities,Property,Graham Asset Management Ltd,5158517,"14,037.06"
+DESNZ,UKAEA,27/09/2023,Facilities,Fusion,Graham Asset Management Ltd,5159011,"15,521.19"
+DESNZ,UKAEA,20/09/2023,Facilities,Property,Graham Asset Management Ltd,5158516,"50,995.57"
+DESNZ,UKAEA,27/09/2023,Facilities,Property,Graham Asset Management Ltd,5158967,"51,172.40"
+DESNZ,UKAEA,27/09/2023,Facilities,Property,Graham Asset Management Ltd,5159009,"53,630.20"
+DESNZ,UKAEA,06/09/2023,Facilities,Property,Idverde Ltd,5157619,682.86
+DESNZ,UKAEA,06/09/2023,Facilities,Property,Idverde Ltd,5157618,"8,148.00"
+DESNZ,UKAEA,06/09/2023,Facilities,Property,Idverde Ltd,5157617,"11,625.43"
+DESNZ,UKAEA,27/09/2023,Facilities,Property,Inspectas Compliance Ltd,5159041,890.00
+DESNZ,UKAEA,27/09/2023,Facilities,Property,Inspectas Compliance Ltd,5159042,890.00
+DESNZ,UKAEA,27/09/2023,Facilities,Property,Inspectas Compliance Ltd,5159043,890.00
+DESNZ,UKAEA,27/09/2023,Facilities,Property,Inspectas Compliance Ltd,5159045,890.00
+DESNZ,UKAEA,06/09/2023,Facilities,Property,Inspectas Compliance Ltd,5157009,"2,190.00"
+DESNZ,UKAEA,06/09/2023,Facilities,Property,Inspectas Compliance Ltd,5157008,"28,035.00"
+DESNZ,UKAEA,18/09/2023,Facilities,Property,Trinity Fire & Security Systems Ltd,5158357,539.48
+DESNZ,UKAEA,18/09/2023,Facilities,Property,Trinity Fire & Security Systems Ltd,5158360,637.58
+DESNZ,UKAEA,18/09/2023,Facilities,Property,Trinity Fire & Security Systems Ltd,5158373,685.40
+DESNZ,UKAEA,04/09/2023,Facilities,Property,Trinity Fire & Security Systems Ltd,5157271,"1,157.50"
+DESNZ,UKAEA,04/09/2023,Facilities,Property,Trinity Fire & Security Systems Ltd,5157268,"1,448.98"
+DESNZ,UKAEA,18/09/2023,Facilities,Property,Trinity Fire & Security Systems Ltd,5158362,"1,679.27"
+DESNZ,UKAEA,04/09/2023,Facilities,Property,Trinity Fire & Security Systems Ltd,5156835,"7,339.88"
+DESNZ,UKAEA,20/09/2023,Facilities,Property,Vergo Pest Management Ltd,5158277,781.25
+DESNZ,UKAEA,25/09/2023,Facilities,Fusion,Baxter Storey Ltd.,5158771,"1,373.79"
+DESNZ,UKAEA,04/09/2023,Facilities,Property,Baxter Storey Ltd.,5157192,"1,720.67"
+DESNZ,UKAEA,25/09/2023,Facilities,Property,Baxter Storey Ltd.,5158775,"4,805.00"
+DESNZ,UKAEA,04/09/2023,Facilities,Property,Baxter Storey Ltd.,5157193,"6,645.34"
+DESNZ,UKAEA,04/09/2023,Facilities,Property,Baxter Storey Ltd.,5157190,"14,400.70"
+DESNZ,UKAEA,06/09/2023,Facilities,Property,OCS Group UK Ltd,5157535,555.34
+DESNZ,UKAEA,06/09/2023,Facilities,Property,OCS Group UK Ltd,5157536,683.72
+DESNZ,UKAEA,06/09/2023,Facilities,Fusion,OCS Group UK Ltd,5157536,"1,113.53"
+DESNZ,UKAEA,06/09/2023,Facilities,Property,OCS Group UK Ltd,5157536,"1,388.63"
+DESNZ,UKAEA,06/09/2023,Facilities,Property,OCS Group UK Ltd,5157530,"2,201.56"
+DESNZ,UKAEA,06/09/2023,Facilities,Property,OCS Group UK Ltd,5157530,"5,870.82"
+DESNZ,UKAEA,06/09/2023,Facilities,Fusion,OCS Group UK Ltd,5157530,"6,604.67"
+DESNZ,UKAEA,06/09/2023,Facilities,Property,OCS Group UK Ltd,5157533,"14,784.39"
+DESNZ,UKAEA,06/09/2023,Facilities,Fusion,OCS Group UK Ltd,5157533,"32,510.83"
+DESNZ,UKAEA,06/09/2023,Facilities,Property,OCS Group UK Ltd,5157533,"53,686.47"
+DESNZ,UKAEA,25/09/2023,Personnel Related,Support Services,People Asset Management Ltd,5158844,"3,027.80"
+DESNZ,UKAEA,04/09/2023,Personnel Related,Support Services,People Asset Management Ltd,5157147,"12,439.79"
+DESNZ,UKAEA,04/09/2023,Office Solutions,Support Services,Kyocera Document Solutions (U.K) Ltd.,5156993,"5,867.28"
+DESNZ,UKAEA,04/09/2023,Facilities,Property,Barclays Eagle Labs Cumbria,5157285,"5,800.00"
+DESNZ,UKAEA,13/09/2023,Facilities,Property,ASSA ABLOY Ltd,5158051,635.50
+DESNZ,UKAEA,04/09/2023,Facilities,Property,ASSA ABLOY Ltd,5156899,"3,974.10"
+DESNZ,UKAEA,13/09/2023,Facilities,Fusion,BAM FM Ltd,5158167,"5,699.49"
+DESNZ,UKAEA,04/09/2023,Facilities,Property,Constant & CO (BEDFORD) LTD,5157196,"1,410.20"
+DESNZ,UKAEA,06/09/2023,Facilities,Property,Imperium Fire Consultancy Ltd,5157357,850.00
+DESNZ,UKAEA,27/09/2023,Facilities,Property,Synectics Security Limited,5158725,"37,972.22"
+DESNZ,UKAEA,18/09/2023,Facilities,Property,Trinity Fire & Security Systems Ltd,5158355,"1,722.96"
+DESNZ,UKAEA,18/09/2023,Facilities,Property,Trinity Fire & Security Systems Ltd,5158356,"23,205.19"
+DESNZ,UKAEA,04/09/2023,Facilities,Property,Wilson James Limited,5157195,538.88
+DESNZ,UKAEA,04/09/2023,Facilities,Property,Wilson James Limited,5157195,"1,422.66"
+DESNZ,UKAEA,13/09/2023,Facilities,Fusion,Wilson James Limited,5158156,"12,173.10"
+DESNZ,UKAEA,18/09/2023,ICT,Support Services,O2 UK Ltd,5158391,"6,975.00"
+DESNZ,UKAEA,11/09/2023,ICT,Fusion,RS Components Ltd,5157838,501.09
+DESNZ,UKAEA,18/09/2023,Waste Management,Fusion,Augean Plc,5158310,"1,858.93"
+DESNZ,UKAEA,27/09/2023,Waste Management,Property,Grundon Waste Management Ltd,5159049,602.24
+DESNZ,UKAEA,18/09/2023,Waste Management,Fusion,Hills Waste Solutions Ltd,5158282,"5,417.99"
+DESNZ,UKAEA,25/09/2023,Waste Management,Fusion,Socotec UK Ltd,5158752,990.56
+DESNZ,UKAEA,06/09/2023,Waste Management,Fusion,Socotec UK Ltd,5157637,"2,231.00"
+DESNZ,UKAEA,25/09/2023,Travel,Fusion,Crown Hotel Bawtry,5157923,637.50
+DESNZ,UKAEA,05/09/2023,Travel,Support Services,P-Card Supplier,5151920,540.00
+DESNZ,UKAEA,04/09/2023,Travel,Support Services,Sound and Lighting Guys,5157201,"2,887.50"
+DESNZ,UKAEA,11/09/2023,Travel,Support Services,Sundry Supplier,5157852,695.00
+DESNZ,UKAEA,04/09/2023,Travel,Support Services,Sundry Supplier,5156954,700.00
+DESNZ,UKAEA,11/09/2023,Travel,Support Services,Sundry Supplier,5157854,850.00
+DESNZ,UKAEA,04/09/2023,Travel,Support Services,Sundry Supplier,5157178,995.00
+DESNZ,UKAEA,04/09/2023,Travel,Support Services,Sundry Supplier,5157166,"1,425.15"
+DESNZ,UKAEA,06/09/2023,Travel,Support Services,Sundry Supplier,5157345,"1,450.00"
+DESNZ,UKAEA,04/09/2023,Research,Fusion,Imperial College London - GBP,5156413,"-1,667.50"
+DESNZ,UKAEA,04/09/2023,Research,Fusion,Imperial College London - GBP,5157060,"1,687.50"
+DESNZ,UKAEA,11/09/2023,Research,Fusion,Imperial College London - GBP,5157980,"1,699.20"
+DESNZ,UKAEA,11/09/2023,Research,Fusion,Imperial College London - GBP,5157980,"3,964.80"
+DESNZ,UKAEA,27/09/2023,Research,Fusion,Loughborough University,5158950,"2,007.75"
+DESNZ,UKAEA,11/09/2023,Research,Fusion,Oxford University - GBP,5158010,"2,474.85"
+DESNZ,UKAEA,11/09/2023,Research,Fusion,Oxford University - GBP,5158011,"3,000.03"
+DESNZ,UKAEA,25/09/2023,Research,Fusion,Oxford University - GBP,5158743,"6,625.50"
+DESNZ,UKAEA,25/09/2023,Research,Fusion,Oxford University - GBP,5158742,"11,777.10"
+DESNZ,UKAEA,25/09/2023,Research,Fusion,The University Of Sheffield,5158703,"8,437.50"
+DESNZ,UKAEA,25/09/2023,Research,Fusion,University College London,5158854,"4,000.00"
+DESNZ,UKAEA,04/09/2023,Research,Fusion,University Of Birmingham - GBP,5156903,500.00
+DESNZ,UKAEA,27/09/2023,Research,Fusion,University Of Birmingham - GBP,5158990,500.00
+DESNZ,UKAEA,27/09/2023,Research,Fusion,University of Bristol,5158952,"2,298.47"
+DESNZ,UKAEA,18/09/2023,Research,Fusion,University of Liverpool,5158320,"2,220.00"
+DESNZ,UKAEA,18/09/2023,Research,Fusion,University of Liverpool,5158292,"2,267.67"
+DESNZ,UKAEA,18/09/2023,Research,Fusion,University of Liverpool,5158351,"2,689.18"
+DESNZ,UKAEA,06/09/2023,Research,Other,University of Liverpool,5157669,"4,583.00"
+DESNZ,UKAEA,18/09/2023,Research,Fusion,University of Liverpool,5158320,"7,655.00"
+DESNZ,UKAEA,13/09/2023,Research,Fusion,University of Liverpool,5158106,"10,145.00"
+DESNZ,UKAEA,25/09/2023,Research,Fusion,University of Liverpool,5158763,"14,701.25"
+DESNZ,UKAEA,25/09/2023,Research,Fusion,University of Warwick - GBP,5158865,"3,125.00"
+DESNZ,UKAEA,04/09/2023,Research,Fusion,University of York - GBP,5156995,"2,916.50"
+DESNZ,UKAEA,25/09/2023,Research,Fusion,University of York - GBP,5158764,"2,988.41"
+DESNZ,UKAEA,25/09/2023,Travel,Other,Easyfairs UK Ltd,5158748,"1,312.41"
+DESNZ,UKAEA,25/09/2023,Travel,Other,Easyfairs UK Ltd,5158749,"2,256.42"
+DESNZ,UKAEA,14/09/2023,Travel,Other,Elipse Gestion De Eventos,5158243,"2,561.91"
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5148361,500.00
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5148361,500.00
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5148361,500.00
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5148361,500.00
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5148755,500.00
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5148755,500.00
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5148755,500.00
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5148755,500.00
+DESNZ,UKAEA,05/09/2023,Travel,Support Services,P-Card Supplier,5148916,500.00
+DESNZ,UKAEA,05/09/2023,Travel,Support Services,P-Card Supplier,5148916,500.00
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5149339,500.00
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5149339,500.00
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5148361,505.00
+DESNZ,UKAEA,05/09/2023,Travel,Support Services,P-Card Supplier,5156178,512.20
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5148916,537.77
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5156964,565.36
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5150520,569.00
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5150520,569.00
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5149136,584.15
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5150520,584.67
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5148361,589.00
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5150430,600.48
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5152006,625.00
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5156737,644.48
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5156737,647.32
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5156737,653.91
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5156190,662.46
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5154709,665.51
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5146868,719.00
+DESNZ,UKAEA,05/09/2023,Travel,Other,P-Card Supplier,5156964,726.20
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5152009,851.14
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5156737,869.08
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5156964,886.81
+DESNZ,UKAEA,05/09/2023,Travel,Fusion,P-Card Supplier,5154709,899.25
+DESNZ,UKAEA,20/09/2023,Travel,Other,Secure Sundry Supplier,5158526,529.85
+DESNZ,UKAEA,27/09/2023,Travel,Other,Secure Sundry Supplier,5158946,589.79
+DESNZ,UKAEA,27/09/2023,Travel,Other,Secure Sundry Supplier,5158999,800.00
+DESNZ,UKAEA,11/09/2023,Travel,Other,St Catherines College Management Limited,5157981,"21,172.20"
+DESNZ,UKAEA,13/09/2023,Travel,Fusion,University of York - GBP,5158221,"1,430.99"
+DESNZ,UKAEA,04/09/2023,Travel,Fusion,Pearces Private Hire Limited,5156857,"4,950.00"
+DESNZ,UKAEA,25/09/2023,Travel,Fusion,Salter's Steamers Ltd.,5158739,"1,816.00"
+DESNZ,UKAEA,06/09/2023,Travel,Fusion,St Edmund Hall Trading,5157677,"49,125.20"
+DESNZ,UKAEA,06/09/2023,Other External Costs,Support Services,Cabinet Office (Government Business Services),5157648,"2,577.00"
+DESNZ,UKAEA,06/09/2023,Professional Services,Support Services,Arthur J Gallagher Insurance Brokers Limited,5157558,704.74
+DESNZ,UKAEA,11/09/2023,Professional Services,Support Services,Arthur J Gallagher Insurance Brokers Limited,5157737,"1,260.00"
+DESNZ,UKAEA,06/09/2023,Professional Services,Support Services,Arthur J Gallagher Insurance Brokers Limited,5157557,"15,086.40"
+DESNZ,UKAEA,Various,P-Card Supplier <£500,Various,Various,Various,"70,341.46"
+DESNZ,UKAEA,Various,Employee expenses <£500,Various,Various,Various,"48,150.53"
+DESNZ,UKAEA,Various,Supplier <£500,Various,Various,Various,"141,059.08"
